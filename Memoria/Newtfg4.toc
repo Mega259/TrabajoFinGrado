@@ -1,0 +1,64 @@
+\babel@toc {spanish}{}
+\contentsline {section}{Resumen}{5}% 
+\contentsline {section}{Abstract}{6}% 
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{7}% 
+\contentsline {chapter}{\numberline {2}Antecedentes}{9}% 
+\contentsline {section}{\numberline {2.1}Inteligencia artificial: Redes neuronales}{9}% 
+\contentsline {subsection}{\numberline {2.1.1}Primera ola (1949-1969)}{10}% 
+\contentsline {subsection}{\numberline {2.1.2}Segunda ola (1986-1995)}{10}% 
+\contentsline {subsection}{\numberline {2.1.3}Tercera ola (2007-?)}{12}% 
+\contentsline {subsection}{\numberline {2.1.4}Presente (2019)}{13}% 
+\contentsline {subsection}{\numberline {2.1.5}Conclusiones}{14}% 
+\contentsline {section}{\numberline {2.2}Aceler\IeC {\'o}metros}{15}% 
+\contentsline {subsection}{\numberline {2.2.1}Primera era: 1923-1936}{16}% 
+\contentsline {subsection}{\numberline {2.2.2}Segunda era: 1936-1950}{17}% 
+\contentsline {subsection}{\numberline {2.2.3}Tercera era: 1950-1991}{18}% 
+\contentsline {subsection}{\numberline {2.2.4}Cuarta era: 1991-?}{18}% 
+\contentsline {subsection}{\numberline {2.2.5}Conclusiones}{19}% 
+\contentsline {section}{\numberline {2.3}Identificaci\IeC {\'o}n de patrones movimiento}{20}% 
+\contentsline {subsection}{\numberline {2.3.1}Captura de informaci\IeC {\'o}n: Sensores}{20}% 
+\contentsline {paragraph}{Sensores de movimientos MEMS}{20}% 
+\contentsline {paragraph}{Sensores ambientales MEMS}{20}% 
+\contentsline {paragraph}{Otros sensores}{21}% 
+\contentsline {subsection}{\numberline {2.3.2}Desarrollo del algoritmo}{21}% 
+\contentsline {paragraph}{Modelo oculto de Markov}{22}% 
+\contentsline {paragraph}{K vecinos m\IeC {\'a}s pr\IeC {\'o}ximos}{22}% 
+\contentsline {paragraph}{Maquinas de vectores de soporte}{22}% 
+\contentsline {paragraph}{Redes Bayesianas}{23}% 
+\contentsline {paragraph}{Regresiones log\IeC {\'\i }sticas}{23}% 
+\contentsline {paragraph}{Clasificador bayesiano ingenuo}{23}% 
+\contentsline {paragraph}{\IeC {\'A}rbol de decisiones}{23}% 
+\contentsline {paragraph}{Redes neuronales}{23}% 
+\contentsline {subsection}{\numberline {2.3.3}Limitaciones}{24}% 
+\contentsline {paragraph}{Consumo de bater\IeC {\'\i }a}{24}% 
+\contentsline {paragraph}{Modelos de posici\IeC {\'o}n fija}{24}% 
+\contentsline {paragraph}{Modelos de posici\IeC {\'o}n dependiente}{25}% 
+\contentsline {paragraph}{Modelos independientes de la posici\IeC {\'o}n}{26}% 
+\contentsline {subsection}{\numberline {2.3.4}Conclusiones}{26}% 
+\contentsline {chapter}{\numberline {3}Fundamentos te\IeC {\'o}ricos}{29}% 
+\contentsline {section}{\numberline {3.1}Introducci\IeC {\'o}n a las redes neuronales}{29}% 
+\contentsline {subsection}{\numberline {3.1.1}Definici\IeC {\'o}n}{29}% 
+\contentsline {subsection}{\numberline {3.1.2}Estructura biol\IeC {\'o}gica}{29}% 
+\contentsline {subsection}{\numberline {3.1.3}Estructura en el software}{31}% 
+\contentsline {subsection}{\numberline {3.1.4}Algoritmo de entrenamiento: Backpropagation}{34}% 
+\contentsline {section}{\numberline {3.2}Aceler\IeC {\'o}metros}{38}% 
+\contentsline {subsection}{\numberline {3.2.1}Fundamento matem\IeC {\'a}tico}{40}% 
+\contentsline {chapter}{\numberline {4}Descripci\IeC {\'o}n del sistema}{45}% 
+\contentsline {section}{\numberline {4.1}Smartphone}{45}% 
+\contentsline {section}{\numberline {4.2}Smartwatch}{45}% 
+\contentsline {section}{\numberline {4.3}Software}{47}% 
+\contentsline {subsection}{\numberline {4.3.1}Android Studio}{47}% 
+\contentsline {subsection}{\numberline {4.3.2}Matlab}{48}% 
+\contentsline {subsection}{\numberline {4.3.3}TensorFlow}{49}% 
+\contentsline {section}{\numberline {4.4}Red Neuronal}{49}% 
+\contentsline {chapter}{\numberline {5}Metodolog\IeC {\'\i }a}{53}% 
+\contentsline {section}{\numberline {5.1}Toma de datos}{53}% 
+\contentsline {section}{\numberline {5.2}An\IeC {\'a}lisis de los datos}{55}% 
+\contentsline {subsection}{\numberline {5.2.1}Reposo}{56}% 
+\contentsline {subsection}{\numberline {5.2.2}Andando}{58}% 
+\contentsline {subsection}{\numberline {5.2.3}Corriendo}{59}% 
+\contentsline {subsection}{\numberline {5.2.4}Cayendo}{60}% 
+\contentsline {subsection}{\numberline {5.2.5}Comentarios de los datos}{60}% 
+\contentsline {section}{\numberline {5.3}Programaci\IeC {\'o}n}{62}% 
+\contentsline {chapter}{\numberline {6}Resultados}{65}% 
+\contentsline {chapter}{\numberline {7}Conclusiones}{69}% 

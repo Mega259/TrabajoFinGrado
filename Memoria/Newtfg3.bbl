@@ -1,0 +1,220 @@
+\begin{thebibliography}{10}
+
+\bibitem{rosenblatt1957perceptron}
+F.~Rosenblatt, {\em The perceptron, a perceiving and recognizing automaton
+  Project Para}.
+\newblock Cornell Aeronautical Laboratory, 1957.
+
+\bibitem{minsky}
+M.~M.~S. Papert, {\em Perceptrons: an introduction to computational geometry}.
+\newblock The MIT Press, 1969.
+
+\bibitem{Rumelhart:1988:LRB:65669.104451}
+D.~E. Rumelhart, G.~E. Hinton, and R.~J. Williams, ``Neurocomputing:
+  Foundations of research,'' ch.~Learning Representations by Back-propagating
+  Errors, pp.~696--699, Cambridge, MA, USA: MIT Press, 1988.
+
+\bibitem{werbos}
+P.~Werbos and P.~J.~(Paul~John, ``Beyond regression : new tools for prediction
+  and analysis in the behavioral sciences /,'' 01 1974.
+
+\bibitem{doi:10.1162/neco.2006.18.7.1527}
+G.~E. Hinton, S.~Osindero, and Y.-W. Teh, ``A fast learning algorithm for deep
+  belief nets,'' {\em Neural Computation}, vol.~18, no.~7, pp.~1527--1554,
+  2006.
+\newblock PMID: 16764513.
+
+\bibitem{concursos}
+A.~Krizhevsky, I.~Sutskever, and G.~E.~Hinton, ``Imagenet classification with
+  deep convolutional neural networks,'' {\em Neural Information Processing
+  Systems}, vol.~25, 01 2012.
+
+\bibitem{DBLP:journals/corr/YangH15}
+Y.~Yang and T.~M. Hospedales, ``Deep neural networks for sketch recognition,''
+  {\em CoRR}, vol.~abs/1501.07873, 2015.
+
+\bibitem{6534032}
+``A new electric telemeter,'' {\em Journal of the A.I.E.E.}, vol.~43,
+  pp.~196--196, March 1924.
+
+\bibitem{50yearsof}
+P.~L.~Walter, ``Review: Fifty years plus of accelerometer history for shock and
+  vibration (1940–1996),'' {\em Shock and Vibration}, vol.~6, pp.~197--207,
+  01 1999.
+
+\bibitem{levy}
+W.~D.~K. Samuel~Levy, ``Response of accelerometers to transient
+  accelerations,'' {\em Response of Accelerometers to Transient Accelerations},
+  vol.~45, 10 1950.
+
+\bibitem{vonWatzdorf:2010:APD:1899662.1899664}
+S.~von Watzdorf and F.~Michahelles, ``Accuracy of positioning data on
+  smartphones,'' in {\em Proceedings of the 3rd International Workshop on
+  Location and the Web}, LocWeb '10, (New York, NY, USA), pp.~2:1--2:4, ACM,
+  2010.
+
+\bibitem{77489867}
+Z.~Ge, P.~W.~C. Prasad, N.~Costadopoulos, A.~Alsadoon, A.~K. Singh, and
+  A.~Elchouemi, ``Evaluating the accuracy of wearable heart rate monitors,'' in
+  {\em 2016 2nd International Conference on Advances in Computing,
+  Communication, Automation (ICACCA) (Fall)}, pp.~1--6, Sept 2016.
+
+\bibitem{Lu:2009:SSS:1555816.1555834}
+H.~Lu, W.~Pan, N.~D. Lane, T.~Choudhury, and A.~T. Campbell, ``Soundsense:
+  Scalable sound sensing for people-centric applications on mobile phones,'' in
+  {\em Proceedings of the 7th International Conference on Mobile Systems,
+  Applications, and Services}, MobiSys '09, (New York, NY, USA), pp.~165--178,
+  ACM, 2009.
+
+\bibitem{doi:10.1155/2014/503291}
+A.~M. Khan, A.~Tufail, A.~M. Khattak, and T.~H. Laine, ``Activity recognition
+  on smartphones via sensor-fusion and kda-based svms,'' {\em International
+  Journal of Distributed Sensor Networks}, vol.~10, no.~5, p.~503291, 2014.
+
+\bibitem{s131013099}
+A.~M. Khan, M.~H. Siddiqi, and S.-W. Lee, ``Exploratory data analysis of
+  acceleration signals to select light-weight and accurate features for
+  real-time activity recognition on smartphones,'' {\em Sensors}, vol.~13,
+  no.~10, pp.~13099--13122, 2013.
+
+\bibitem{Falaki:2010:DSU:1814433.1814453}
+H.~Falaki, R.~Mahajan, S.~Kandula, D.~Lymberopoulos, R.~Govindan, and
+  D.~Estrin, ``Diversity in smartphone usage,'' in {\em Proceedings of the 8th
+  International Conference on Mobile Systems, Applications, and Services},
+  MobiSys '10, (New York, NY, USA), pp.~179--194, ACM, 2010.
+
+\bibitem{Carroll:2010:APC:1855840.1855861}
+A.~Carroll and G.~Heiser, ``An analysis of power consumption in a smartphone,''
+  in {\em Proceedings of the 2010 USENIX Conference on USENIX Annual Technical
+  Conference}, USENIXATC'10, (Berkeley, CA, USA), pp.~21--21, USENIX
+  Association, 2010.
+
+\bibitem{5673816}
+S.~Zhang, P.~McCullagh, C.~Nugent, and H.~Zheng, ``Activity monitoring using a
+  smart phone's accelerometer with hierarchical classification,'' in {\em 2010
+  Sixth International Conference on Intelligent Environments}, pp.~158--163,
+  July 2010.
+
+\bibitem{s130405317}
+E.~Mitchell and N.~E. Monaghan, David~O'Connor, ``Classification of sporting
+  activities using smartphone accelerometers,'' {\em Sensors}, vol.~13, no.~4,
+  pp.~5317--5337, 2013.
+
+\bibitem{Marshall:2013:SSD:2494091.2496036}
+J.~Marshall, ``Smartphone sensing for distributed swim stroke coaching and
+  research,'' in {\em Proceedings of the 2013 ACM Conference on Pervasive and
+  Ubiquitous Computing Adjunct Publication}, UbiComp '13 Adjunct, (New York,
+  NY, USA), pp.~1413--1416, ACM, 2013.
+
+\bibitem{KRANZ2013203}
+M.~Kranz, A.~Möller, N.~Hammerla, S.~Diewald, T.~Plötz, P.~Olivier, and
+  L.~Roalter, ``The mobile fitness coach: Towards individualized skill
+  assessment using personalized mobile devices,'' {\em Pervasive and Mobile
+  Computing}, vol.~9, no.~2, pp.~203 -- 215, 2013.
+\newblock Special Section: Mobile Interactions with the Real World.
+
+\bibitem{6488584}
+A.~Anjum and M.~U. Ilyas, ``Activity recognition using smartphone sensors,'' in
+  {\em 2013 IEEE 10th Consumer Communications and Networking Conference
+  (CCNC)}, pp.~914--919, Jan 2013.
+
+\bibitem{s150818901}
+M.~B. del Rosario, S.~J. Redmond, and N.~H. Lovell, ``Tracking the evolution of
+  smartphone sensing for monitoring human movement,'' {\em Sensors}, vol.~15,
+  no.~8, pp.~18901--18933, 2015.
+
+\bibitem{articulo1}
+P.~L.~Walter, ``The history of the accelerometer 1920s-1996 - prologue and
+  epilogue, 2006,'' {\em Sound & vibration}, vol.~41, pp.~84--92, 01 2007.
+
+\bibitem{wasserman}
+P.~D.~Wasserman, ``Neural computing : theory and practice / philip d.
+  wasserman,'' {\em SERBIULA (sistema Librum 2.0)}, 03 2019.
+
+\bibitem{Goodfellow-et-al-2016}
+I.~Goodfellow, Y.~Bengio, and A.~Courville, {\em Deep Learning}.
+\newblock MIT Press, 2016.
+
+\bibitem{US1745175}
+E.~L. Julius, ``Method and apparatus for controlling electric currents,'' Jan
+  1930.
+\newblock US19260140363 19261008.
+
+\bibitem{Fukushima1980}
+K.~Fukushima, ``Neocognitron: A self-organizing neural network model for a
+  mechanism of pattern recognition unaffected by shift in position,'' {\em
+  Biological Cybernetics}, vol.~36, pp.~193--202, Apr 1980.
+
+\bibitem{546561}
+F.~{Faggin}, M.~E. {Hoff}, S.~{Mazor}, and M.~{Shima}, ``The history of the
+  4004,'' {\em IEEE Micro}, vol.~16, pp.~10--20, Dec 1996.
+
+\bibitem{1478481}
+J.~S. {Kilby}, ``Invention of the integrated circuit,'' {\em IEEE Transactions
+  on Electron Devices}, vol.~23, pp.~648--654, July 1976.
+
+\bibitem{PhysRev.74.230}
+J.~Bardeen and W.~H. Brattain, ``The transistor, a semi-conductor triode,''
+  {\em Phys. Rev.}, vol.~74, pp.~230--231, Jul 1948.
+
+\bibitem{PhysRev.94.42}
+C.~S. Smith, ``Piezoresistance effect in germanium and silicon,'' {\em Phys.
+  Rev.}, vol.~94, pp.~42--49, Apr 1954.
+
+\bibitem{5504649}
+S.~Lim, T.~H. Oh, Y.~B. Choi, and T.~Lakshman, ``Security issues on wireless
+  body area network for remote healthcare monitoring,'' in {\em 2010 IEEE
+  International Conference on Sensor Networks, Ubiquitous, and Trustworthy
+  Computing}, pp.~327--332, June 2010.
+
+\bibitem{doi:10.1258/1357633054461994}
+M.~Scheffler and E.~Hirt, ``Wearable devices for telemedicine applications,''
+  {\em Journal of Telemedicine and Telecare}, vol.~11, no.~1\_suppl,
+  pp.~11--14, 2005.
+\newblock PMID: 16035978.
+
+\bibitem{978924156525}
+W.~H. Organization, ``Global report on diabetes,'' 2016.
+
+\bibitem{1-58053-493-7}
+Y.~P.S. Hall;~Hao, {\em Antennas and Propagation for Body-Centric Wireless
+  Networks}.
+\newblock Artech House, 2006.
+
+\bibitem{1530994}
+K.~A. Townsend, J.~W. Haslett, T.~K.~K. Tsang, M.~N. El-Gamal, and K.~Iniewski,
+  ``Recent advances and future trends in low power wireless systems for medical
+  applications,'' in {\em Fifth International Workshop on System-on-Chip for
+  Real-Time Applications (IWSOC'05)}, pp.~476--481, July 2005.
+
+\bibitem{7748986}
+Z.~Ge, P.~W.~C. Prasad, N.~Costadopoulos, A.~Alsadoon, A.~K. Singh, and
+  A.~Elchouemi, ``Evaluating the accuracy of wearable heart rate monitors,'' in
+  {\em 2016 2nd International Conference on Advances in Computing,
+  Communication, Automation (ICACCA) (Fall)}, pp.~1--6, Sept 2016.
+
+\bibitem{6206966}
+G.~Comtois, J.~I. Salisbury, and Y.~Sun, ``A smartphone-based platform for
+  analyzing physiological audio signals,'' in {\em 2012 38th Annual Northeast
+  Bioengineering Conference (NEBEC)}, pp.~69--70, March 2012.
+
+\bibitem{s150509854}
+Y.~R. Park, Y.~Lee, G.~Lee, J.~H. Lee, and S.-Y. Shin, ``Smartphone
+  applications with sensors used in a tertiary hospital—current status and
+  future challenges,'' {\em Sensors}, vol.~15, no.~5, pp.~9854--9869, 2015.
+
+\bibitem{s150817827}
+E.~Casilari, R.~Luque, and M.-J. Morón, ``Analysis of android device-based
+  solutions for fall detection,'' {\em Sensors}, vol.~15, no.~8,
+  pp.~17827--17894, 2015.
+
+\bibitem{s150408712}
+Y.-Y. Chen and R.-S. Chang, ``A study of new pulse auscultation system,'' {\em
+  Sensors}, vol.~15, no.~4, pp.~8712--8731, 2015.
+
+\bibitem{s213}
+P.~Zandbergen and S.~Barbeau, ``Positional accuracy of assisted gps data from
+  high-sensitivity gps-enabled mobile phones,'' vol.~64, pp.~381 -- 399, 07
+  2011.
+
+\end{thebibliography}

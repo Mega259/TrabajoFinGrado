@@ -1,0 +1,2410 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.22)  19 JUN 2019 22:36
+entering extended mode
+**./Newtfg5.tex
+(Newtfg5.tex
+LaTeX2e <2018-12-01>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\book.cls"
+Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\bk12.clo"
+File: bk12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2018/11/13 3.27 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-spanish\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@dirlevel=\count90
+)
+\es@quottoks=\toks16
+\es@quotdepth=\count91
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/colortbl\colortbl.sty"
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen104
+\ar@mcellbox=\box27
+\extrarowheight=\dimen105
+\NC@list=\toks17
+\extratabsurround=\skip43
+\backup@length=\skip44
+\ar@cellbox=\box28
+)
+\everycr=\toks18
+\minrowclearance=\skip45
+)
+\rownum=\count92
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen106
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks20
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks21
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks22
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip49
+\subfigcapskip=\skip50
+\subfigcaptopadj=\dimen117
+\subfigbottomskip=\skip51
+\subfigcapmargin=\dimen118
+\subfiglabelskip=\skip52
+\c@subfigure=\count105
+\c@lofdepth=\count106
+\c@subtable=\count107
+\c@lotdepth=\count108
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files\MiKTeX 2.9\tex/latex/subfigure\subfigure.cfg")
+\subfig@top=\skip53
+\subfig@bottom=\skip54
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/frontendlayer\tikz.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks25
+\pgfutil@tempdima=\dimen119
+\pgfutil@tempdimb=\dimen120
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-common-lists.te
+x")) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-latex.def"
+\pgfutil@abb=\box31
+("C:\Program Files\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfrcs.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf\pgf.revision.tex")
+Package: pgfrcs 2019/02/02 v3.1.1 (3.1.1)
+))
+Package: pgf 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys.code.tex"
+Package: pgfsys 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeysfiltered.code.te
+x"
+\pgfkeys@tmptoks=\toks28
+))
+\pgf@x=\dimen121
+\pgf@y=\dimen122
+\pgf@xa=\dimen123
+\pgf@ya=\dimen124
+\pgf@xb=\dimen125
+\pgf@yb=\dimen126
+\pgf@xc=\dimen127
+\pgf@yc=\dimen128
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count109
+\c@pgf@countb=\count110
+\c@pgf@countc=\count111
+\c@pgf@countd=\count112
+\t@pgf@toka=\toks29
+\t@pgf@tokb=\toks30
+\t@pgf@tokc=\toks31
+\pgf@sys@id@count=\count113
+ ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgf.cfg"
+File: pgf.cfg 2019/02/02 v3.1.1 (3.1.1)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys-pdftex.def"
+File: pgfsys-pdftex.def 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+"
+File: pgfsys-common-pdf.def 2019/02/02 v3.1.1 (3.1.1)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.t
+ex"
+File: pgfsyssoftpath.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfsyssoftpath@smallbuffer@items=\count114
+\pgfsyssoftpath@bigbuffer@items=\count115
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsysprotocol.code.t
+ex"
+File: pgfsysprotocol.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcore.code.tex"
+Package: pgfcore 2019/02/02 v3.1.1 (3.1.1)
+ ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathparser.code.tex"
+\pgfmath@dimen=\dimen129
+\pgfmath@count=\count116
+\pgfmath@box=\box32
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.basic.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.trigonometr
+ic.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.random.code
+.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.comparison.
+code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.base.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.round.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.misc.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.integerarit
+hmetics.code.tex")))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count117
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+"
+File: pgfcorepoints.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@picminx=\dimen130
+\pgf@picmaxx=\dimen131
+\pgf@picminy=\dimen132
+\pgf@picmaxy=\dimen133
+\pgf@pathminx=\dimen134
+\pgf@pathmaxx=\dimen135
+\pgf@pathminy=\dimen136
+\pgf@pathmaxy=\dimen137
+\pgf@xx=\dimen138
+\pgf@xy=\dimen139
+\pgf@yx=\dimen140
+\pgf@yy=\dimen141
+\pgf@zx=\dimen142
+\pgf@zy=\dimen143
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathconstruct.c
+ode.tex"
+File: pgfcorepathconstruct.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@path@lastx=\dimen144
+\pgf@path@lasty=\dimen145
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathusage.code.
+tex"
+File: pgfcorepathusage.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@shorten@end@additional=\dimen146
+\pgf@shorten@start@additional=\dimen147
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+"
+File: pgfcorescopes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfpic=\box33
+\pgf@hbox=\box34
+\pgf@layerbox@main=\box35
+\pgf@picture@serial@count=\count118
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoregraphicstate.co
+de.tex"
+File: pgfcoregraphicstate.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgflinewidth=\dimen148
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoretransformations
+.code.tex"
+File: pgfcoretransformations.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@pt@x=\dimen149
+\pgf@pt@y=\dimen150
+\pgf@pt@temp=\dimen151
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorequick.code.tex"
+File: pgfcorequick.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreobjects.code.te
+x"
+File: pgfcoreobjects.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathprocessing.
+code.tex"
+File: pgfcorepathprocessing.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+"
+File: pgfcorearrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfarrowsep=\dimen152
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex"
+File: pgfcoreshade.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@max=\dimen153
+\pgf@sys@shading@range@num=\count119
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreimage.code.te
+x"
+File: pgfcoreimage.code.tex 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreexternal.code.t
+ex"
+File: pgfcoreexternal.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfexternal@startupbox=\box36
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+"
+File: pgfcorelayers.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoretransparency.co
+de.tex"
+File: pgfcoretransparency.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepatterns.code.t
+ex"
+File: pgfcorepatterns.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex"
+File: pgfcorerdf.code.tex 2019/02/02 v3.1.1 (3.1.1)
+))) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduleshapes.code.
+tex"
+File: pgfmoduleshapes.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfnodeparttextbox=\box37
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduleplot.code.tex"
+File: pgfmoduleplot.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/compatibility\pgfcomp-version-0-65.
+sty"
+Package: pgfcomp-version-0-65 2019/02/02 v3.1.1 (3.1.1)
+\pgf@nodesepstart=\dimen154
+\pgf@nodesepend=\dimen155
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/compatibility\pgfcomp-version-1-18.
+sty"
+Package: pgfcomp-version-1-18 2019/02/02 v3.1.1 (3.1.1)
+)) ("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/utilities\pgffor.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/utilities\pgfkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeys.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/math\pgfmath.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgffor.code.tex"
+Package: pgffor 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex")
+\pgffor@iter=\dimen156
+\pgffor@skip=\dimen157
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
+))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex"
+Package: tikz 2019/02/02 v3.1.1 (3.1.1)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries\pgflibraryplothandlers.
+code.tex"
+File: pgflibraryplothandlers.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgf@plot@mark@count=\count120
+\pgfplotmarksize=\dimen158
+)
+\tikz@lastx=\dimen159
+\tikz@lasty=\dimen160
+\tikz@lastxsaved=\dimen161
+\tikz@lastysaved=\dimen162
+\tikzleveldistance=\dimen163
+\tikzsiblingdistance=\dimen164
+\tikz@figbox=\box38
+\tikz@figbox@bg=\box39
+\tikz@tempbox=\box40
+\tikz@tempbox@bg=\box41
+\tikztreelevel=\count121
+\tikznumberofchildren=\count122
+\tikznumberofcurrentchild=\count123
+\tikz@fig@count=\count124
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmodulematrix.code.tex"
+File: pgfmodulematrix.code.tex 2019/02/02 v3.1.1 (3.1.1)
+\pgfmatrixcurrentrow=\count125
+\pgfmatrixcurrentcolumn=\count126
+\pgf@matrix@numberofcolumns=\count127
+)
+\tikz@expandcount=\count128
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/latex/cleveref\cleveref.sty"
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\microtype.sty"
+Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
+\MT@toks=\toks37
+\MT@count=\count129
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen165
+LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
+\MT@listname@count=\count130
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\microtype-pdftex.def"
+File: microtype-pdftex.def 2019/02/28 v2.7b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip55
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\microtype.cfg"
+File: microtype.cfg 2019/02/28 v2.7b microtype main configuration file (RS)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count131
+\Gm@cntv=\count132
+\c@Gm@tempcnt=\count133
+\Gm@bindingoffset=\dimen166
+\Gm@wd@mp=\dimen167
+\Gm@odd@mp=\dimen168
+\Gm@even@mp=\dimen169
+\Gm@layoutwidth=\dimen170
+\Gm@layoutheight=\dimen171
+\Gm@layouthoffset=\dimen172
+\Gm@layoutvoffset=\dimen173
+\Gm@dimlist=\toks38
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarycalc.code.tex"
+File: tikzlibrarycalc.code.tex 2019/02/02 v3.1.1 (3.1.1)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries/circ
+uits\tikzlibrarycircuits.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarydecorations.markings.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarydecorations.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduledecorations.code
+.tex"
+\pgfdecoratedcompleteddistance=\dimen174
+\pgfdecoratedremainingdistance=\dimen175
+\pgfdecoratedinputsegmentcompleteddistance=\dimen176
+\pgfdecoratedinputsegmentremainingdistance=\dimen177
+\pgf@decorate@distancetomove=\dimen178
+\pgf@decorate@repeatstate=\count134
+\pgfdecorationsegmentamplitude=\dimen179
+\pgfdecorationsegmentlength=\dimen180
+)
+\tikz@lib@dec@box=\box42
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/decorations\pgflibraryd
+ecorations.markings.code.tex"))
+\tikz@lib@circ@count=\count135
+\tikzcircuitssizeunit=\dimen181
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\theorem.sty"
+Package: theorem 2014/10/28 v2.2c Theorem extension package (FMi)
+\theorem@style=\toks39
+\theorem@bodyfont=\toks40
+\theorempreskipamount=\skip56
+\theorempostskipamount=\skip57
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\thp.sty"
+File: thp.sty 2014/10/28 v2.2c Theorem extension package (FMi)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amscd.sty"
+Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
+\athelp@=\toks41
+\minaw@=\dimen182
+\bigaw@=\dimen183
+\minCDarrowwidth=\dimen184
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\textcomp.sty"
+Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/pdfpages\pdfpages.sty"
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count136
+\calc@Bcount=\count137
+\calc@Adimen=\dimen185
+\calc@Bdimen=\dimen186
+\calc@Askip=\skip58
+\calc@Bskip=\skip59
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count138
+\calc@Cskip=\skip60
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.sty"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\atbegshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+\AM@pagewidth=\dimen187
+\AM@pageheight=\dimen188
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/pdfpages\pppdftex.def"
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box43
+\AM@global@opts=\toks42
+\AM@toc@title=\toks43
+\c@AM@survey=\count139
+\AM@templatesizebox=\box44
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\afterpage.sty"
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks44
+\AP@partial=\box45
+\AP@footins=\box46
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/caption\caption3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen189
+\captionmargin@=\dimen190
+\captionwidth=\dimen191
+\caption@tempdima=\dimen192
+\caption@indent=\dimen193
+\caption@parindent=\dimen194
+\caption@hangindent=\dimen195
+)
+\c@caption@flags=\count140
+\c@ContinuedFloat=\count141
+Package caption Info: subfigure package is loaded.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count142
+\float@exts=\toks45
+\float@box=\box47
+\@float@everytoks=\toks46
+\@floatcapt=\box48
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen196
+\WF@size=\dimen197
+\c@WF@wrappedlines=\count143
+\WF@box=\box49
+\WF@everypar=\toks47
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
+\lst@mode=\count144
+\lst@gtempboxa=\box50
+\lst@token=\toks48
+\lst@length=\count145
+\lst@currlwidth=\dimen198
+\lst@column=\count146
+\lst@pos=\count147
+\lst@lostspace=\dimen199
+\lst@width=\dimen256
+\lst@newlines=\count148
+\lst@lineno=\count149
+\lst@maxwidth=\dimen257
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count150
+\lst@skipnumbers=\count151
+\lst@framebox=\box51
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/tools\multicol.sty"
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count152
+\mult@box=\box52
+\multicol@leftmargin=\dimen258
+\c@unbalance=\count153
+\c@collectmore=\count154
+\doublecol@number=\count155
+\multicoltolerance=\count156
+\multicolpretolerance=\count157
+\full@width=\dimen259
+\page@free=\dimen260
+\premulticols=\dimen261
+\postmulticols=\dimen262
+\multicolsep=\skip61
+\multicolbaselineskip=\skip62
+\partial@page=\box53
+\last@line=\box54
+\maxbalancingoverflow=\dimen263
+\mult@rightbox=\box55
+\mult@grightbox=\box56
+\mult@gfirstbox=\box57
+\mult@firstbox=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\c@columnbadness=\count158
+\c@finalcolumnbadness=\count159
+\last@try=\dimen264
+\multicolovershoot=\dimen265
+\multicolundershoot=\dimen266
+\mult@nat@firstbox=\box76
+\colbreak@box=\box77
+\mc@col@check@num=\count160
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/appendix\appendix.sty"
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count161
+\c@@ppsavesec=\count162
+\c@@ppsaveapp=\count163
+)
+\c@theorem=\count164
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xypic.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xy.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xy.tex" Bootstrap'ing:
+catcodes, docmode, ("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xyrecat.tex"
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xyidioms.tex")
+
+ Xy-pic version 3.8.9 <2013/10/06>
+ Copyright (c) 1991-2013 by Kristoffer H. Rose <krisrose@tug.org> and others
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen267
+\Y@c=\dimen268
+\U@c=\dimen269
+\D@c=\dimen270
+\L@c=\dimen271
+\R@c=\dimen272
+\Edge@c=\toks49
+\X@p=\dimen273
+\Y@p=\dimen274
+\U@p=\dimen275
+\D@p=\dimen276
+\L@p=\dimen277
+\R@p=\dimen278
+\Edge@p=\toks50
+\X@origin=\dimen279
+\Y@origin=\dimen280
+\X@xbase=\dimen281
+\Y@xbase=\dimen282
+\X@ybase=\dimen283
+\Y@ybase=\dimen284
+\X@min=\dimen285
+\Y@min=\dimen286
+\X@max=\dimen287
+\Y@max=\dimen288
+\lastobjectbox@=\box78
+\zerodotbox@=\box79
+\almostz@=\dimen289
+ direction,
+\d@X=\dimen290
+\d@Y=\dimen291
+\K@=\count165
+\KK@=\count166
+\Direction=\count167
+\K@dXdY=\dimen292
+\K@dYdX=\dimen293
+\xyread@=\read2
+\xywrite@=\write4
+\csp@=\count168
+\quotPTK@=\dimen294
+
+utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks51
+\connectobjectbox@@=\box80
+ objects,
+\styletoks@=\toks52
+ decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+
+LaTeX Warning: You have requested package `xypic',
+               but the package provides `xy'.
+
+Package: xy 2013/10/06 Xy-pic version 3.8.9
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xyall.tex"
+ Xy-pic option: All features v.3.8
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xycurve.tex"
+ Xy-pic option: Curve and Spline extension v.3.12 curve,
+\crv@cnt@=\count169
+\crvpts@=\toks53
+\splinebox@=\box81
+\splineval@=\dimen295
+\splinedepth@=\dimen296
+\splinetol@=\dimen297
+\splinelength@=\dimen298
+ circles,
+\L@=\dimen299
+ loaded)
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xyframe.tex"
+ Xy-pic option: Frame and Bracket extension v.3.14 loaded)
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xycmtip.tex"
+ Xy-pic option: Computer Modern tip extension v.3.7
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xytips.tex"
+ Xy-pic option: More Tips extension v.3.11 loaded) loaded)
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xyline.tex"
+ Xy-pic option: Line styles extension v.3.10
+\xylinethick@=\dimen300
+ loaded)
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xyrotate.tex"
+ Xy-pic option: Rotate and Scale extension v.3.8 loaded)
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xycolor.tex"
+ Xy-pic option: Colour extension v.3.11 loaded)
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xymatrix.tex"
+ Xy-pic option: Matrix feature v.3.14
+\Row=\count170
+\Col=\count171
+\queue@=\toks54
+\queue@@=\toks55
+\qcount@=\count172
+\qcount@@=\count173
+\matrixsize@=\count174
+ loaded)
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xyarrow.tex"
+ Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xygraph.tex"
+ Xy-pic option: Graph feature v.3.11 loaded) loaded)
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xypdf.tex"
+ Xy-pic option: PDF driver v.1.7 Xy-pic pdf driver: `color' extension support
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xypdf-co.tex" loaded)
+Xy-pic pdf driver: `curve' extension support
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xypdf-cu.tex" loaded)
+Xy-pic pdf driver: `frame' extension support
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xypdf-fr.tex" loaded)
+Xy-pic pdf driver: `line' extension support
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xypdf-li.tex" loaded)
+Xy-pic pdf driver: `rotate' extension support
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xypdf-ro.tex" loaded) loaded))
+("C:\Program Files\MiKTeX 2.9\tex/generic/xypic\xyv2.tex"
+ Xy-pic option: Version 2 Compatibility v.3.8
+
+Xy-pic Warning: `\stop' redefined.
+
+loaded)) ("C:\Program Files\MiKTeX 2.9\tex/latex/enumitem\enumitem.sty"
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip63
+\enit@outerparindent=\dimen301
+\enit@toks=\toks56
+\enit@inbox=\box82
+\enit@count@id=\count175
+\enitdp@description=\count176
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\epsfig.sty"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen302
+\epsfysize=\dimen303
+)
+\@indexfile=\write5
+\openout5 = `Newtfg5.idx'.
+
+
+Writing index file Newtfg5.idx
+(Newtfg5.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+
+
+LaTeX Warning: Label `fig:mesh2' multiply defined.
+
+
+LaTeX Warning: Label `fig:mesh2@cref' multiply defined.
+
+)
+\openout1 = `Newtfg5.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 170.
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 170.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 170.
+
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 170.
+LaTeX Info: Redefining \. on input line 170.
+LaTeX Info: Redefining \% on input line 170.
+
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count177
+\scratchdimen=\dimen304
+\scratchbox=\box83
+\nofMPsegments=\count178
+\nofMParguments=\count179
+\everyMPshowfont=\toks57
+\MPscratchCnt=\count180
+\MPscratchDim=\dimen305
+\MPnumerator=\count181
+\makeMPintoPDFobject=\count182
+\everyMPtoPDFconversion=\toks58
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+ABD: EveryShipout initializing macros
+LaTeX Info: Redefining \microtypecontext on input line 170.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\mt-cmr.cfg"
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(73.71613pt, 430.00462pt, 110.57425pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=426.79134pt
+* \textheight=597.50787pt
+* \oddsidemargin=42.67912pt
+* \evensidemargin=-7.11317pt
+* \topmargin=-14.22636pt
+* \headheight=30.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=56.9055pt
+* \marginparwidth=98.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box84
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count183
+LaTeX Font Info:    Try loading font information for U+msa on input line 170.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\mt-msa.cfg"
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 170.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\mt-msb.cfg"
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Package xypdf Info: Line width: 0.47998pt on input line 170.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+)
+<./normativa3.pdf, id=4, 597.23125pt x 845.1575pt>
+File: ./normativa3.pdf Graphic file (type pdf)
+<use ./normativa3.pdf>
+Package pdftex.def Info: ./normativa3.pdf  used on input line 173.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: ./normativa3.pdf Graphic file (type pdf)
+<use ./normativa3.pdf>
+Package pdftex.def Info: ./normativa3.pdf  used on input line 173.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+<./normativa3.pdf, id=7, page=8, 597.23125pt x 845.1575pt>
+File: ./normativa3.pdf Graphic file (type pdf)
+<use ./normativa3.pdf, page 8>
+Package pdftex.def Info: ./normativa3.pdf , page8 used on input line 173.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: ./normativa3.pdf Graphic file (type pdf)
+<use ./normativa3.pdf, page 8>
+Package pdftex.def Info: ./normativa3.pdf , page8 used on input line 173.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: ./normativa3.pdf Graphic file (type pdf)
+<use ./normativa3.pdf, page 8>
+Package pdftex.def Info: ./normativa3.pdf , page8 used on input line 173.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: ./normativa3.pdf Graphic file (type pdf)
+<use ./normativa3.pdf, page 8>
+Package pdftex.def Info: ./normativa3.pdf , page8 used on input line 173.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+File: ./normativa3.pdf Graphic file (type pdf)
+<use ./normativa3.pdf, page 8>
+Package pdftex.def Info: ./normativa3.pdf , page8 used on input line 173.
+(pdftex.def)             Requested size: 561.86221pt x 795.10587pt.
+ [1
+
+ <./normativa3.pdf>] [2] [3{C:/Users/kiko/AppData/Local/MiKTeX/2.9/pdftex/confi
+g/pdftex.map}] [4] (Newtfg5.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [1
+
+] [2])
+\tf@toc=\write6
+\openout6 = `Newtfg5.toc'.
+
+ [3] [4] [5
+
+] [6
+
+] [7] [8
+
+]
+Cap\'{\i }tulo 1.
+
+Underfull \vbox (badness 1137) has occurred while \output is active []
+
+ [9]
+[10]
+Cap\'{\i }tulo 2.
+[11
+
+] [12]
+Underfull \vbox (badness 6396) has occurred while \output is active []
+
+ [13]
+[14]
+<growth.png, id=80, 940.11224pt x 512.51476pt>
+File: growth.png Graphic file (type png)
+<use growth.png>
+Package pdftex.def Info: growth.png  used on input line 287.
+(pdftex.def)             Requested size: 426.79134pt x 232.67061pt.
+<Winner-results-of-the-ImageNet-large-scale-visual-recognition-challenge-LSVRC-
+of-the.png, id=82, 773.89125pt x 402.50375pt>
+File: Winner-results-of-the-ImageNet-large-scale-visual-recognition-challenge-L
+SVRC-of-the.png Graphic file (type png)
+<use Winner-results-of-the-ImageNet-large-scale-visual-recognition-challenge-LS
+VRC-of-the.png>
+Package pdftex.def Info: Winner-results-of-the-ImageNet-large-scale-visual-reco
+gnition-challenge-LSVRC-of-the.png  used on input line 297.
+(pdftex.def)             Requested size: 426.79134pt x 221.97963pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15 <./growth.png>] [16 <./Winner-results-of-the-ImageNet-large-scale-visual-re
+cognition-challenge-LSVRC-of-the.png>]
+<atwood.png, id=92, 220.825pt x 385.44pt>
+File: atwood.png Graphic file (type png)
+<use atwood.png>
+Package pdftex.def Info: atwood.png  used on input line 317.
+(pdftex.def)             Requested size: 110.41222pt x 192.71953pt.
+ [17 <./atwood.png>]
+<mcculling.png, id=100, 853.1875pt x 941.5175pt>
+File: mcculling.png Graphic file (type png)
+<use mcculling.png>
+Package pdftex.def Info: mcculling.png  used on input line 347.
+(pdftex.def)             Requested size: 170.63448pt x 188.30016pt.
+ [18 <./mcculling.png>] [19] [20]
+<MEMSpromo.jpg, id=112, 579.66562pt x 301.125pt>
+File: MEMSpromo.jpg Graphic file (type jpg)
+<use MEMSpromo.jpg>
+Package pdftex.def Info: MEMSpromo.jpg  used on input line 375.
+(pdftex.def)             Requested size: 426.79134pt x 221.71246pt.
+ [21 <./MEMSpromo.jpg>] [22] [23] [24] [25]
+<batterylife.png, id=129, 646.21425pt x 194.52675pt>
+File: batterylife.png Graphic file (type png)
+<use batterylife.png>
+Package pdftex.def Info: batterylife.png  used on input line 453.
+(pdftex.def)             Requested size: 426.79134pt x 128.47708pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26]
+<position.png, id=133, 423.38174pt x 215.6055pt>
+File: position.png Graphic file (type png)
+<use position.png>
+Package pdftex.def Info: position.png  used on input line 463.
+(pdftex.def)             Requested size: 426.79134pt x 217.34201pt.
+ [27 <./batterylife.png> <./position.png>] [28] [29] [30
+
+]
+Cap\'{\i }tulo 3.
+<estructura_general_neurona.png, id=148, 1127.21124pt x 633.36626pt>
+File: estructura_general_neurona.png Graphic file (type png)
+<use estructura_general_neurona.png>
+Package pdftex.def Info: estructura_general_neurona.png  used on input line 498
+.
+(pdftex.def)             Requested size: 426.79134pt x 239.81189pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31]
+<sinapsis.jpg, id=152, 752.8125pt x 384.43625pt>
+File: sinapsis.jpg Graphic file (type jpg)
+<use sinapsis.jpg>
+Package pdftex.def Info: sinapsis.jpg  used on input line 509.
+(pdftex.def)             Requested size: 341.43436pt x 174.36148pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<refractorystate.png, id=153, 1027.84pt x 1014.79124pt>
+File: refractorystate.png Graphic file (type png)
+<use refractorystate.png>
+Package pdftex.def Info: refractorystate.png  used on input line 517.
+(pdftex.def)             Requested size: 205.56436pt x 202.95465pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 1122) has occurred while \output is active []
+
+ [32 <./estructura_general_neurona.png>] [33 <./sinapsis.jpg>]
+<multicapa.jpg, id=162, 425.33907pt x 244.66406pt>
+File: multicapa.jpg Graphic file (type jpg)
+<use multicapa.jpg>
+Package pdftex.def Info: multicapa.jpg  used on input line 538.
+(pdftex.def)             Requested size: 298.75262pt x 171.85725pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[34 <./refractorystate.png>]
+<neuron.jpg, id=167, 661.47125pt x 377.41pt>
+File: neuron.jpg Graphic file (type jpg)
+<use neuron.jpg>
+Package pdftex.def Info: neuron.jpg  used on input line 547.
+(pdftex.def)             Requested size: 298.75262pt x 170.45488pt.
+ [35 <./multicapa.jpg> <./neuron.jpg>] [36]
+[37] [38] [39]
+<piezoelectric.png, id=189, 274.02374pt x 217.41225pt>
+File: piezoelectric.png Graphic file (type png)
+<use piezoelectric.png>
+Package pdftex.def Info: piezoelectric.png  used on input line 705.
+(pdftex.def)             Requested size: 219.21928pt x 173.93001pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<piezoelectrictypes.png, id=190, 618.81187pt x 217.5628pt>
+File: piezoelectrictypes.png Graphic file (type png)
+<use piezoelectrictypes.png>
+Package pdftex.def Info: piezoelectrictypes.png  used on input line 714.
+(pdftex.def)             Requested size: 426.79134pt x 150.05873pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[40]
+Underfull \vbox (badness 2080) has occurred while \output is active []
+
+ [41 <./piezoelectric.png> <./piezoelectrictypes.png>] [42] [43] [44] [45] [46]
+
+Cap\'{\i }tulo 4.
+<ticwatche.jpg, id=214, 1204.5pt x 676.5275pt>
+File: ticwatche.jpg Graphic file (type jpg)
+<use ticwatche.jpg>
+Package pdftex.def Info: ticwatche.jpg  used on input line 873.
+(pdftex.def)             Requested size: 426.79134pt x 239.71988pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[47
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48 <./ticwatche.jpg>] [49]
+Underfull \vbox (badness 2726) has occurred while \output is active []
+
+ [50]
+[51]
+<miredneuronal.png, id=233, 763.35187pt x 235.63031pt>
+File: miredneuronal.png Graphic file (type png)
+<use miredneuronal.png>
+Package pdftex.def Info: miredneuronal.png  used on input line 920.
+(pdftex.def)             Requested size: 426.79134pt x 131.73993pt.
+ [52 <./miredneuronal.png>]
+<underfit.png, id=238, 505.89pt x 361.35pt>
+File: underfit.png Graphic file (type png)
+<use underfit.png>
+Package pdftex.def Info: underfit.png  used on input line 931.
+(pdftex.def)             Requested size: 354.12057pt x 252.94327pt.
+<overfit.png, id=239, 505.89pt x 361.35pt>
+File: overfit.png Graphic file (type png)
+<use overfit.png>
+Package pdftex.def Info: overfit.png  used on input line 940.
+(pdftex.def)             Requested size: 354.12057pt x 252.94327pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[53 <./underfit.png>] [54 <./overfit.png>]
+Cap\'{\i }tulo 5.
+<Interfaces.jpg, id=248, 1110.39844pt x 964.35281pt>
+File: Interfaces.jpg Graphic file (type jpg)
+<use Interfaces.jpg>
+Package pdftex.def Info: Interfaces.jpg  used on input line 959.
+(pdftex.def)             Requested size: 341.43436pt x 296.51834pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[55
+
+]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56 <./Interfaces.jpg>] [57] [58] [59]
+<reposodatos.png, id=265, 389.95688pt x 261.97874pt>
+File: reposodatos.png Graphic file (type png)
+<use reposodatos.png>
+Package pdftex.def Info: reposodatos.png  used on input line 1047.
+(pdftex.def)             Requested size: 256.0774pt x 172.04305pt.
+ [60 <./reposodatos.png>]
+<andandodatos.png, id=269, 389.95688pt x 261.97874pt>
+File: andandodatos.png Graphic file (type png)
+<use andandodatos.png>
+Package pdftex.def Info: andandodatos.png  used on input line 1084.
+(pdftex.def)             Requested size: 256.0774pt x 172.04305pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[61]
+<corriendodatos.png, id=273, 395.22656pt x 268.75406pt>
+File: corriendodatos.png Graphic file (type png)
+<use corriendodatos.png>
+Package pdftex.def Info: corriendodatos.png  used on input line 1119.
+(pdftex.def)             Requested size: 213.39566pt x 145.10863pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[62 <./andandodatos.png>] [63 <./corriendodatos.png>]
+<cayendodatos.png, id=281, 395.22656pt x 268.75406pt>
+File: cayendodatos.png Graphic file (type png)
+<use cayendodatos.png>
+Package pdftex.def Info: cayendodatos.png  used on input line 1155.
+(pdftex.def)             Requested size: 256.0774pt x 174.13445pt.
+ [64 <./cayendodatos.png>]
+<esquemacodigo.png, id=285, 374.14781pt x 235.63031pt>
+File: esquemacodigo.png Graphic file (type png)
+<use esquemacodigo.png>
+Package pdftex.def Info: esquemacodigo.png  used on input line 1180.
+(pdftex.def)             Requested size: 426.79134pt x 268.79752pt.
+[65] [66 <./esquemacodigo.png>] [67] [68
+
+]
+Cap\'{\i }tulo 6.
+<PossibleBF_1.png, id=298, 505.89pt x 361.35pt>
+File: PossibleBF_1.png Graphic file (type png)
+<use PossibleBF_1.png>
+Package pdftex.def Info: PossibleBF_1.png  used on input line 1201.
+(pdftex.def)             Requested size: 341.43436pt x 243.88419pt.
+[69 <./PossibleBF_1.png>]
+Underfull \vbox (badness 6316) has occurred while \output is active []
+
+ [70]
+<finalesAndroid.png, id=307, 925.056pt x 450.2421pt>
+File: finalesAndroid.png Graphic file (type png)
+<use finalesAndroid.png>
+Package pdftex.def Info: finalesAndroid.png  used on input line 1259.
+(pdftex.def)             Requested size: 341.43436pt x 166.18163pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[71] [72 <./finalesAndroid.png>]
+Cap\'{\i }tulo 7.
+[73
+
+] [74] (Newtfg5.bbl [75] [76
+
+] [77] [78] [79]
+Overfull \hbox (0.88553pt too wide) in paragraph at lines 133--135
+[]\OT1/cmr/m/n/12 (-20) P. D. Wasserman, ``Neural computing : theory and practi
+ce / philip d. wasserman,''
+ []
+
+) [80] [81
+
+
+] [82]
+Ap\'{e}ndice A.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83
+
+]
+Overfull \hbox (54.8589pt too wide) in paragraph at lines 1545--1545
+[]        \OT1/cmtt/m/n/12 data: a list with 4 elements, X, Y, Z and R, the lab
+el of the movement[] 
+ []
+
+
+Overfull \hbox (65.9739pt too wide) in paragraph at lines 1545--1545
+[]            \OT1/cmtt/m/n/12 data.append((float(row[0]),float(row[1]),float(r
+ow[2]),int(row[3])))[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [84]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [85]
+Overfull \hbox (67.20891pt too wide) in paragraph at lines 1545--1545
+[]\OT1/cmtt/m/n/12 media = [x_media/number_of_data, y_media/number_of_data, z_m
+edia/number_of_data][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [86]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [87]
+Overfull \hbox (5.45888pt too wide) in paragraph at lines 1545--1545
+[]\OT1/cmtt/m/n/12 #Preparing the data to be separated into testing and trainin
+g datasets[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [88]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89]
+Overfull \hbox (103.02393pt too wide) in paragraph at lines 1545--1545
+[]\OT1/cmtt/m/n/12 model.compile(optimizer='adam', loss='categorical_crossentro
+py', metrics=['accuracy'])[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [90]
+Overfull \hbox (146.24895pt too wide) in paragraph at lines 1545--1545
+[]\OT1/cmtt/m/n/12 print(classification_report(np.argmax(training_res,axis=1), 
+y_pred,target_names=class_names))[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [91]
+Overfull \hbox (140.07394pt too wide) in paragraph at lines 1545--1545
+[]\OT1/cmtt/m/n/12 print(classification_report(np.argmax(testing_res,axis=1), y
+_pred,target_names=class_names))
+ []
+
+[92]
+Ap\'{e}ndice B.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [93
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [94]
+Overfull \hbox (90.67392pt too wide) in paragraph at lines 1935--1935
+[] \OT1/cmtt/m/n/12 * this is the main activity on the device/phone  (just to k
+ept everything straight)[] 
+ []
+
+
+Overfull \hbox (42.5089pt too wide) in paragraph at lines 1935--1935
+[] \OT1/cmtt/m/n/12 * The device will setup a listener to receive messages from
+ the wear device[] 
+ []
+
+
+Overfull \hbox (33.24638pt too wide) in paragraph at lines 1935--1935
+[] \OT1/cmtt/m/n/12 * It also setups up a button, so it can send a message to t
+he wear device,[] 
+ []
+
+
+Overfull \hbox (23.98389pt too wide) in paragraph at lines 1935--1935
+[] \OT1/cmtt/m/n/12 * response to the message.   This code does not auto respon
+se, otherwise[] 
+ []
+
+
+Overfull \hbox (308.03403pt too wide) in paragraph at lines 1935--1935
+[] \OT1/cmtt/m/n/12 * This is all down via the datalayer in the googleApiClient
+ that requires om.google.android.gms:play-services-wearable[] 
+ []
+
+
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 1935--1935
+[] \OT1/cmtt/m/n/12 * in the gradle (both wear and mobile).  Also the applicati
+onId MUST be[] 
+ []
+
+
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 1935--1935
+[] \OT1/cmtt/m/n/12 * https://developer.android.com/training/wearables/apps/deb
+ugging.html[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [95]
+Overfull \hbox (40.65639pt too wide) in paragraph at lines 1935--1935
+[]    \OT1/cmtt/m/n/12 final String path = Environment.getExternalStorageDirect
+ory().getPath();[] 
+ []
+
+
+Overfull \hbox (40.65639pt too wide) in paragraph at lines 1935--1935
+[]    \OT1/cmtt/m/n/12 final File file = new File(path + File.separator +"Datos
+", "datos.txt");[] 
+ []
+
+
+Overfull \hbox (164.77396pt too wide) in paragraph at lines 1935--1935
+[]        \OT1/cmtt/m/n/12 startRecording.setOnCheckedChangeListener(new Compou
+ndButton.OnCheckedChangeListener() {[] 
+ []
+
+
+Overfull \hbox (8.54637pt too wide) in paragraph at lines 1935--1935
+[]            \OT1/cmtt/m/n/12 public void onCheckedChanged(CompoundButton comp
+oundButton,[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [96]
+Overfull \hbox (20.89638pt too wide) in paragraph at lines 1935--1935
+[]                \OT1/cmtt/m/n/12 new String[]{Manifest.permission.WRITE_EXTER
+NAL_STORAGE},[] 
+ []
+
+
+Overfull \hbox (28.30638pt too wide) in paragraph at lines 1935--1935
+[]        \OT1/cmtt/m/n/12 IntentFilter messageFilter = new IntentFilter(Intent
+.ACTION_SEND);[] 
+ []
+
+
+Overfull \hbox (23.98389pt too wide) in paragraph at lines 1935--1935
+[]    \OT1/cmtt/m/n/12 * Method used to get the permissions to write into exter
+nal SD, where[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [97]
+Overfull \hbox (103.02393pt too wide) in paragraph at lines 1935--1935
+[]                                           \OT1/cmtt/m/n/12 String permission
+s[], int[] grantResults) {[] 
+ []
+
+
+Overfull \hbox (13.48637pt too wide) in paragraph at lines 1935--1935
+[]                \OT1/cmtt/m/n/12 // If request is cancelled, the result array
+s are empty.[] 
+ []
+
+
+Overfull \hbox (78.32391pt too wide) in paragraph at lines 1935--1935
+[]                        \OT1/cmtt/m/n/12 && grantResults[0] == PackageManager
+.PERMISSION_GRANTED) {[] 
+ []
+
+
+Overfull \hbox (17.80888pt too wide) in paragraph at lines 1935--1935
+[]                    \OT1/cmtt/m/n/12 Toast.makeText(MainActivity.this, "Permi
+ssion denied[] 
+ []
+
+
+Overfull \hbox (71.5314pt too wide) in paragraph at lines 1935--1935
+[]                     \OT1/cmtt/m/n/12 to write your External storage", Toast.
+LENGTH_SHORT).show();[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [98]
+Overfull \hbox (48.6839pt too wide) in paragraph at lines 1935--1935
+[]    \OT1/cmtt/m/n/12 //setup a broadcast receiver to receive the messages fro
+m the wear device[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [99]
+Overfull \hbox (30.15889pt too wide) in paragraph at lines 1935--1935
+[]            \OT1/cmtt/m/n/12 * New thread to write the data from the clock in
+to a txt. Then[] 
+ []
+
+
+Overfull \hbox (42.5089pt too wide) in paragraph at lines 1935--1935
+[]            \OT1/cmtt/m/n/12 * Important: add the true into the filewriter to
+ allow appending[] 
+ []
+
+
+Overfull \hbox (53.0064pt too wide) in paragraph at lines 1935--1935
+[]                            \OT1/cmtt/m/n/12 String message = intent.getStrin
+gExtra("message");[] 
+ []
+
+
+Overfull \hbox (108.58142pt too wide) in paragraph at lines 1935--1935
+[]                            \OT1/cmtt/m/n/12 break_data[0][0] = Float.parseFl
+oat(message.split(",")[0]);[] 
+ []
+
+
+Overfull \hbox (108.58142pt too wide) in paragraph at lines 1935--1935
+[]                            \OT1/cmtt/m/n/12 break_data[0][1] = Float.parseFl
+oat(message.split(",")[1]);[] 
+ []
+
+
+Overfull \hbox (108.58142pt too wide) in paragraph at lines 1935--1935
+[]                            \OT1/cmtt/m/n/12 break_data[0][2] = Float.parseFl
+oat(message.split(",")[2]);[] 
+ []
+
+
+Overfull \hbox (187.62146pt too wide) in paragraph at lines 1935--1935
+[]                                \OT1/cmtt/m/n/12 Interpreter interpreter = ne
+w Interpreter(loadModelFile(getAssets(),[] 
+ []
+
+
+Overfull \hbox (28.30638pt too wide) in paragraph at lines 1935--1935
+[]                                 \OT1/cmtt/m/n/12 "PossibleBF.tflite").asRead
+OnlyBuffer());[] 
+ []
+
+
+Overfull \hbox (59.1814pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 resultado[0] = resultado
+[0] + output[0][3];[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [100]
+Overfull \hbox (59.1814pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 resultado[1] = resultado
+[1] + output[0][2];[] 
+ []
+
+
+Overfull \hbox (59.1814pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 resultado[2] = resultado
+[2] + output[0][1];[] 
+ []
+
+
+Overfull \hbox (59.1814pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 resultado[3] = resultado
+[3] + output[0][0];[] 
+ []
+
+
+Overfull \hbox (23.05763pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 if(Math.abs(break_data[0
+][0]) > 65 ||[] 
+ []
+
+
+Overfull \hbox (10.70763pt too wide) in paragraph at lines 1935--1935
+[]                                     \OT1/cmtt/m/n/12 Math.abs(break_data[0][
+1]) > 65 ||[] 
+ []
+
+
+Overfull \hbox (16.57388pt too wide) in paragraph at lines 1935--1935
+[]                                      \OT1/cmtt/m/n/12 Math.abs(break_data[0]
+[2]) > 65) {[] 
+ []
+
+
+Overfull \hbox (15.95638pt too wide) in paragraph at lines 1935--1935
+[]                                        \OT1/cmtt/m/n/12 resultado[3] = resul
+tado[3] + 2;[] 
+ []
+
+
+Overfull \hbox (9.78137pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 float maxValue = getMax(
+resultado);[] 
+ []
+
+
+Overfull \hbox (4.22388pt too wide) in paragraph at lines 1935--1935
+[]                                        \OT1/cmtt/m/n/12 if(maxValue == resul
+tado[x]) {[] 
+ []
+
+
+Overfull \hbox (127.10643pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 HashMap<Float, Integer> 
+hmapResults = new HashMap<>();[] 
+ []
+
+
+Overfull \hbox (22.13138pt too wide) in paragraph at lines 1935--1935
+[]                                        \OT1/cmtt/m/n/12 hmapResults.put(resu
+ltado[x], x);[] 
+ []
+
+
+Overfull \hbox (120.93143pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 Map<Float, Integer> map 
+= new TreeMap<>(hmapResults);[] 
+ []
+
+
+Overfull \hbox (3.60637pt too wide) in paragraph at lines 1935--1935
+[]                                   \OT1/cmtt/m/n/12 float maxValue = getMax(r
+esultado);[] 
+ []
+
+
+Overfull \hbox (102.40642pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 resultado2 = arraySectio
+ning(resultado, maxValue);[] 
+ []
+
+
+Overfull \hbox (22.13138pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 float maxValue2 = getMax
+(resultado2);[] 
+ []
+
+
+Overfull \hbox (114.75642pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 resultado3 = arraySectio
+ning(resultado2, maxValue2);[] 
+ []
+
+
+Overfull \hbox (22.13138pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 float maxValue3 = getMax
+(resultado3);[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [101]
+Overfull \hbox (114.75642pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 resultado4 = arraySectio
+ning(resultado3, maxValue3);[] 
+ []
+
+
+Overfull \hbox (22.13138pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 float maxValue4 = getMax
+(resultado4);[] 
+ []
+
+
+Overfull \hbox (312.97403pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 if (map.get(maxValue) ==
+ 1 && map.get(maxValue2) == 2 && (maxValue-maxValue2) < 1) {[] 
+ []
+
+
+Overfull \hbox (96.23141pt too wide) in paragraph at lines 1935--1935
+[]                                        \OT1/cmtt/m/n/12 redLogger.setText("R
+ED NEURONAL: CORRIENDO");[] 
+ []
+
+
+Overfull \hbox (10.39888pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 } else if(map.get(maxVal
+ue) == 0) {[] 
+ []
+
+
+Overfull \hbox (77.7064pt too wide) in paragraph at lines 1935--1935
+[]                                        \OT1/cmtt/m/n/12 redLogger.setText("R
+ED NEURONAL: REPOSO");[] 
+ []
+
+
+Overfull \hbox (10.39888pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 }else if (map.get(maxVal
+ue) == 1) {[] 
+ []
+
+
+Overfull \hbox (83.88141pt too wide) in paragraph at lines 1935--1935
+[]                                        \OT1/cmtt/m/n/12 redLogger.setText("R
+ED NEURONAL: ANDANDO");[] 
+ []
+
+
+Overfull \hbox (10.39888pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 } else if (map.get(maxVa
+lue) == 2){[] 
+ []
+
+
+Overfull \hbox (96.23141pt too wide) in paragraph at lines 1935--1935
+[]                                        \OT1/cmtt/m/n/12 redLogger.setText("R
+ED NEURONAL: CORRIENDO");[] 
+ []
+
+
+Overfull \hbox (16.57388pt too wide) in paragraph at lines 1935--1935
+[]                                    \OT1/cmtt/m/n/12 } else if (map.get(maxVa
+lue) == 3) {[] 
+ []
+
+
+Overfull \hbox (83.88141pt too wide) in paragraph at lines 1935--1935
+[]                                        \OT1/cmtt/m/n/12 redLogger.setText("R
+ED NEURONAL: CAYENDO");[] 
+ []
+
+
+Overfull \hbox (15.95638pt too wide) in paragraph at lines 1935--1935
+[]                                \OT1/cmtt/m/n/12 Log.e("OPERATOR", "Interpret
+er Failed");[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [102]
+Overfull \hbox (164.15645pt too wide) in paragraph at lines 1935--1935
+[]                            \OT1/cmtt/m/n/12 BufferedWriter out = new Buffere
+dWriter(new FileWriter(file, true));[] 
+ []
+
+
+Overfull \hbox (133.28143pt too wide) in paragraph at lines 1935--1935
+[]                            \OT1/cmtt/m/n/12 out.append(message +',' + instan
+tResult + ',' + index + " \n");[] 
+ []
+
+
+Overfull \hbox (96.23141pt too wide) in paragraph at lines 1935--1935
+[]                            \OT1/cmtt/m/n/12 Log.e("Exception", "File write f
+ailed: " + e.toString());[] 
+ []
+
+
+Overfull \hbox (28.92389pt too wide) in paragraph at lines 1935--1935
+[]    \OT1/cmtt/m/n/12 public static float[] arraySectioning(float[] arrayToSec
+, float arg) {[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [103]
+Overfull \hbox (140.07394pt too wide) in paragraph at lines 1935--1935
+[]    \OT1/cmtt/m/n/12 private static MappedByteBuffer loadModelFile(AssetManag
+er assets, String modelFilename)[] 
+ []
+
+
+Overfull \hbox (28.30638pt too wide) in paragraph at lines 1935--1935
+[]        \OT1/cmtt/m/n/12 AssetFileDescriptor fileDescriptor = assets.openFd(m
+odelFilename);[] 
+ []
+
+
+Overfull \hbox (151.80644pt too wide) in paragraph at lines 1935--1935
+[]        \OT1/cmtt/m/n/12 FileInputStream inputStream = new FileInputStream(fi
+leDescriptor.getFileDescriptor());[] 
+ []
+
+
+Overfull \hbox (133.28143pt too wide) in paragraph at lines 1935--1935
+[]        \OT1/cmtt/m/n/12 return fileChannel.map(FileChannel.MapMode.READ_ONLY
+, startOffset, declaredLength);[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [104]
+Overfull \hbox (44.36139pt too wide) in paragraph at lines 1935--1935
+[]    \OT1/cmtt/m/n/12 //method to create up a bundle to send to a handler via 
+the thread below.[] 
+ []
+
+
+Overfull \hbox (135.13394pt too wide) in paragraph at lines 1935--1935
+[]        \OT1/cmtt/m/n/12 //sends the message via the thread.  this will send 
+to all wearables connected, but[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [105]
+Overfull \hbox (114.75642pt too wide) in paragraph at lines 1935--1935
+[]                    \OT1/cmtt/m/n/12 Wearable.getNodeClient(getApplicationCon
+text()).getConnectedNodes();[] 
+ []
+
+
+Overfull \hbox (190.70897pt too wide) in paragraph at lines 1935--1935
+[]                \OT1/cmtt/m/n/12 // Block on a task and get the result synchr
+onously (because this is on a background[] 
+ []
+
+
+Overfull \hbox (343.23154pt too wide) in paragraph at lines 1935--1935
+[]                            \OT1/cmtt/m/n/12 Wearable.getMessageClient(MainAc
+tivity.this).sendMessage(node.getId(), path, message.getBytes());[] 
+ []
+
+
+Overfull \hbox (240.109pt too wide) in paragraph at lines 1935--1935
+[]                        \OT1/cmtt/m/n/12 // Block on a task and get the resul
+t synchronously (because this is on a background[] 
+ []
+
+
+Overfull \hbox (3.60637pt too wide) in paragraph at lines 1935--1935
+[]                        \OT1/cmtt/m/n/12 Integer result = Tasks.await(sendMes
+sageTask);[] 
+ []
+
+
+Overfull \hbox (139.45644pt too wide) in paragraph at lines 1935--1935
+[]                        \OT1/cmtt/m/n/12 sendmessage("SendThread: message sen
+d to " + node.getDisplayName());[] 
+ []
+
+
+Overfull \hbox (133.28143pt too wide) in paragraph at lines 1935--1935
+[]                        \OT1/cmtt/m/n/12 Log.v(TAG, "SendThread: message send
+ to " + node.getDisplayName());[] 
+ []
+
+
+Overfull \hbox (145.63144pt too wide) in paragraph at lines 1935--1935
+[]                        \OT1/cmtt/m/n/12 sendmessage("SendThread: message fai
+led to" + node.getDisplayName());[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [106]
+Overfull \hbox (40.65639pt too wide) in paragraph at lines 1935--1935
+[]                        \OT1/cmtt/m/n/12 Log.e(TAG, "Send Interrupt occurred:
+ " + exception);[] 
+ []
+
+[107]
+Overfull \hbox (19.66138pt too wide) in paragraph at lines 1979--1979
+[] \OT1/cmtt/m/n/12 *  displayed.  the messages should be coming from the wear/
+watch device.[] 
+ []
+
+
+Overfull \hbox (3.60637pt too wide) in paragraph at lines 1979--1979
+[]            \OT1/cmtt/m/n/12 final String message = new String(messageEvent.g
+etData());[] 
+ []
+
+
+Overfull \hbox (108.58142pt too wide) in paragraph at lines 1979--1979
+[]            \OT1/cmtt/m/n/12 Log.v(TAG, "Message path received on phone is: "
+ + messageEvent.getPath());[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [108]
+Overfull \hbox (71.5314pt too wide) in paragraph at lines 1979--1979
+[]            \OT1/cmtt/m/n/12 LocalBroadcastManager.getInstance(this).sendBroa
+dcast(messageIntent);[] 
+ []
+
+[109] [110
+
+]
+Ap\'{e}ndice C.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [111]
+Overfull \hbox (170.94896pt too wide) in paragraph at lines 2197--2197
+[] \OT1/cmtt/m/n/12 * This will receive messages (from a device/phone) via the 
+datalayer (through the listener code)[] 
+ []
+
+
+Overfull \hbox (73.38391pt too wide) in paragraph at lines 2197--2197
+[] \OT1/cmtt/m/n/12 * and display them to the wear device.  There is also a but
+ton to send a message[] 
+ []
+
+
+Overfull \hbox (159.5252pt too wide) in paragraph at lines 2197--2197
+[] \OT1/cmtt/m/n/12 * if the wear device receives a message from the phone/devi
+ce it will then send a message back[] 
+ []
+
+
+Overfull \hbox (143.16144pt too wide) in paragraph at lines 2197--2197
+[] \OT1/cmtt/m/n/12 * via the button on the wear device, it can also send a mes
+sage to the device/phone as well.[] 
+ []
+
+
+Overfull \hbox (153.04144pt too wide) in paragraph at lines 2197--2197
+[] \OT1/cmtt/m/n/12 *    There is no auto response from the phone/device otherw
+ise we would get caught in a loop![] 
+ []
+
+
+Overfull \hbox (11.63388pt too wide) in paragraph at lines 2197--2197
+[] \OT1/cmtt/m/n/12 * https://developer.android.com/training/wearables/apps/deb
+ugging.html[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [112]
+Overfull \hbox (84.49892pt too wide) in paragraph at lines 2197--2197
+[]\OT1/cmtt/m/n/12 public class MainActivity extends WearableActivity implement
+s SensorEventListener {[] 
+ []
+
+
+Overfull \hbox (102.40642pt too wide) in paragraph at lines 2197--2197
+[]    \OT1/cmtt/m/n/12 private static SimpleDateFormat dateFormat = new SimpleD
+ateFormat("HH:mm:ss.SSS");[] 
+ []
+
+
+Overfull \hbox (19.66138pt too wide) in paragraph at lines 2197--2197
+[]        \OT1/cmtt/m/n/12 //send a message from the wear.  This one will not h
+ave response.[] 
+ []
+
+
+Overfull \hbox (170.94896pt too wide) in paragraph at lines 2197--2197
+[]        \OT1/cmtt/m/n/12 activateSensors.setOnCheckedChangeListener(new Compo
+undButton.OnCheckedChangeListener() {[] 
+ []
+
+
+Overfull \hbox (140.07394pt too wide) in paragraph at lines 2197--2197
+[]            \OT1/cmtt/m/n/12 public void onCheckedChanged(CompoundButton comp
+oundButton, boolean isChecked) {[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [113]
+Overfull \hbox (106.11142pt too wide) in paragraph at lines 2197--2197
+[]        \OT1/cmtt/m/n/12 // Register the local broadcast receiver to receive 
+messages from the listener.[] 
+ []
+
+
+Overfull \hbox (28.30638pt too wide) in paragraph at lines 2197--2197
+[]        \OT1/cmtt/m/n/12 IntentFilter messageFilter = new IntentFilter(Intent
+.ACTION_SEND);[] 
+ []
+
+
+Overfull \hbox (170.33145pt too wide) in paragraph at lines 2197--2197
+[]        \OT1/cmtt/m/n/12 LocalBroadcastManager.getInstance(this).registerRece
+iver(messageReceiver, messageFilter);[] 
+ []
+
+
+Overfull \hbox (71.5314pt too wide) in paragraph at lines 2197--2197
+[]        \OT1/cmtt/m/n/12 mSensorManager = (SensorManager)getSystemService(Con
+text.SENSOR_SERVICE);[] 
+ []
+
+
+Overfull \hbox (71.5314pt too wide) in paragraph at lines 2197--2197
+[]        \OT1/cmtt/m/n/12 mAcceSensor = mSensorManager.getDefaultSensor(Sensor
+.TYPE_ACCELEROMETER);[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [114]
+Overfull \hbox (157.98145pt too wide) in paragraph at lines 2197--2197
+[]        \OT1/cmtt/m/n/12 mSensorManager.registerListener(this, mAcceSensor, S
+ensorManager.SENSOR_DELAY_FASTEST);[] 
+ []
+
+
+Overfull \hbox (4.22388pt too wide) in paragraph at lines 2197--2197
+[]        \OT1/cmtt/m/n/12 if(sensorEvent.sensor.getType() == Sensor.TYPE_ACCEL
+EROMETER){[] 
+ []
+
+
+Overfull \hbox (503.78162pt too wide) in paragraph at lines 2197--2197
+[]            \OT1/cmtt/m/n/12 String msg = Float.toString(sensorEvent.values[0
+]) +","+ Float.toString(sensorEvent.values[1]) +","+ Float.toString(sensorEvent
+.values[2]);[] 
+ []
+
+
+Overfull \hbox (16.57388pt too wide) in paragraph at lines 2197--2197
+[]            \OT1/cmtt/m/n/12 if (isOn && (nowDate.getTime() -startDate.getTim
+e()) >= 40){[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [115]
+Overfull \hbox (110.43393pt too wide) in paragraph at lines 2197--2197
+[]            \OT1/cmtt/m/n/12 String currentDateTime = dateFormat.format(new D
+ate()); // Find todays date[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [116]
+Overfull \hbox (135.13394pt too wide) in paragraph at lines 2197--2197
+[]        \OT1/cmtt/m/n/12 //sends the message via the thread.  this will send 
+to all wearables connected, but[] 
+ []
+
+
+Overfull \hbox (114.75642pt too wide) in paragraph at lines 2197--2197
+[]                    \OT1/cmtt/m/n/12 Wearable.getNodeClient(getApplicationCon
+text()).getConnectedNodes();[] 
+ []
+
+
+Overfull \hbox (190.70897pt too wide) in paragraph at lines 2197--2197
+[]                \OT1/cmtt/m/n/12 // Block on a task and get the result synchr
+onously (because this is on a background[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [117]
+Overfull \hbox (343.23154pt too wide) in paragraph at lines 2197--2197
+[]                            \OT1/cmtt/m/n/12 Wearable.getMessageClient(MainAc
+tivity.this).sendMessage(node.getId(), path, message.getBytes());[] 
+ []
+
+
+Overfull \hbox (240.109pt too wide) in paragraph at lines 2197--2197
+[]                        \OT1/cmtt/m/n/12 // Block on a task and get the resul
+t synchronously (because this is on a background[] 
+ []
+
+
+Overfull \hbox (3.60637pt too wide) in paragraph at lines 2197--2197
+[]                        \OT1/cmtt/m/n/12 Integer result = Tasks.await(sendMes
+sageTask);[] 
+ []
+
+
+Overfull \hbox (133.28143pt too wide) in paragraph at lines 2197--2197
+[]                        \OT1/cmtt/m/n/12 Log.v(TAG, "SendThread: message send
+ to " + node.getDisplayName());[] 
+ []
+
+
+Overfull \hbox (9.78137pt too wide) in paragraph at lines 2197--2197
+[]                        \OT1/cmtt/m/n/12 Log.e(TAG, "Interrupt occurred: " + 
+exception);[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [118]
+[119]
+Overfull \hbox (3.60637pt too wide) in paragraph at lines 2238--2238
+[]            \OT1/cmtt/m/n/12 final String message = new String(messageEvent.g
+etData());[] 
+ []
+
+
+Overfull \hbox (53.0064pt too wide) in paragraph at lines 2238--2238
+[]            \OT1/cmtt/m/n/12 Log.v(TAG, "Message path received is: " + messag
+eEvent.getPath());[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [120]
+Overfull \hbox (71.5314pt too wide) in paragraph at lines 2238--2238
+[]            \OT1/cmtt/m/n/12 LocalBroadcastManager.getInstance(this).sendBroa
+dcast(messageIntent);[] 
+ []
+
+[121] (Newtfg5.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 25870 strings out of 492945
+ 466517 string characters out of 3135516
+ 774976 words of memory out of 3000000
+ 29074 multiletter control sequences out of 15000+200000
+ 19622 words of font info for 131 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,18n,76p,3235b,454s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\kiko\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\t
+crm1200.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Newtfg5.pdf (125 pages, 2288319 bytes).
+PDF statistics:
+ 523 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 14499 words of extra memory for PDF output out of 17280 (max. 10000000)
+

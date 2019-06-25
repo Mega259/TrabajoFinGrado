@@ -1,0 +1,171 @@
+\begin{thebibliography}{10}
+
+\bibitem{6534032}
+A new electric telemeter.
+\newblock {\em Journal of the A.I.E.E.}, 43(3):196--196, March 1924.
+
+\bibitem{6488584}
+A.~Anjum and M.~U. Ilyas.
+\newblock Activity recognition using smartphone sensors.
+\newblock In {\em 2013 IEEE 10th Consumer Communications and Networking
+  Conference (CCNC)}, pages 914--919, Jan 2013.
+
+\bibitem{Carroll:2010:APC:1855840.1855861}
+Aaron Carroll and Gernot Heiser.
+\newblock An analysis of power consumption in a smartphone.
+\newblock In {\em Proceedings of the 2010 USENIX Conference on USENIX Annual
+  Technical Conference}, USENIXATC'10, pages 21--21, Berkeley, CA, USA, 2010.
+  USENIX Association.
+
+\bibitem{wasserman}
+Philip D.~Wasserman.
+\newblock Neural computing : theory and practice / philip d. wasserman.
+\newblock {\em SERBIULA (sistema Librum 2.0)}, 03 2019.
+
+\bibitem{s150818901}
+Michael~B. del Rosario, Stephen~J. Redmond, and Nigel~H. Lovell.
+\newblock Tracking the evolution of smartphone sensing for monitoring human
+  movement.
+\newblock {\em Sensors}, 15(8):18901--18933, 2015.
+
+\bibitem{Falaki:2010:DSU:1814433.1814453}
+Hossein Falaki, Ratul Mahajan, Srikanth Kandula, Dimitrios Lymberopoulos,
+  Ramesh Govindan, and Deborah Estrin.
+\newblock Diversity in smartphone usage.
+\newblock In {\em Proceedings of the 8th International Conference on Mobile
+  Systems, Applications, and Services}, MobiSys '10, pages 179--194, New York,
+  NY, USA, 2010. ACM.
+
+\bibitem{77489867}
+Z.~Ge, P.~W.~C. Prasad, N.~Costadopoulos, A.~Alsadoon, A.~K. Singh, and
+  A.~Elchouemi.
+\newblock Evaluating the accuracy of wearable heart rate monitors.
+\newblock In {\em 2016 2nd International Conference on Advances in Computing,
+  Communication, Automation (ICACCA) (Fall)}, pages 1--6, Sept 2016.
+
+\bibitem{Goodfellow-et-al-2016}
+Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+\newblock {\em Deep Learning}.
+\newblock MIT Press, 2016.
+\newblock \url{http://www.deeplearningbook.org}.
+
+\bibitem{doi:10.1162/neco.2006.18.7.1527}
+Geoffrey~E. Hinton, Simon Osindero, and Yee-Whye Teh.
+\newblock A fast learning algorithm for deep belief nets.
+\newblock {\em Neural Computation}, 18(7):1527--1554, 2006.
+\newblock PMID: 16764513.
+
+\bibitem{s131013099}
+Adil~Mehmood Khan, Muhammad~Hameed Siddiqi, and Seok-Won Lee.
+\newblock Exploratory data analysis of acceleration signals to select
+  light-weight and accurate features for real-time activity recognition on
+  smartphones.
+\newblock {\em Sensors}, 13(10):13099--13122, 2013.
+
+\bibitem{doi:10.1155/2014/503291}
+Adil~Mehmood Khan, Ali Tufail, Asad~Masood Khattak, and Teemu~H. Laine.
+\newblock Activity recognition on smartphones via sensor-fusion and kda-based
+  svms.
+\newblock {\em International Journal of Distributed Sensor Networks},
+  10(5):503291, 2014.
+
+\bibitem{KRANZ2013203}
+Matthias Kranz, Andreas Möller, Nils Hammerla, Stefan Diewald, Thomas Plötz,
+  Patrick Olivier, and Luis Roalter.
+\newblock The mobile fitness coach: Towards individualized skill assessment
+  using personalized mobile devices.
+\newblock {\em Pervasive and Mobile Computing}, 9(2):203 -- 215, 2013.
+\newblock Special Section: Mobile Interactions with the Real World.
+
+\bibitem{concursos}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey E.~Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock {\em Neural Information Processing Systems}, 25, 01 2012.
+
+\bibitem{50yearsof}
+Patrick L.~Walter.
+\newblock Review: Fifty years plus of accelerometer history for shock and
+  vibration (1940–1996).
+\newblock {\em Shock and Vibration}, 6:197--207, 01 1999.
+
+\bibitem{histofacce}
+Patrick L.~Walter.
+\newblock The history of the accelerometer 1920s-1996 - prologue and epilogue,
+  2006.
+\newblock {\em Sound & vibration}, 41:84--92, 01 2007.
+
+\bibitem{Lu:2009:SSS:1555816.1555834}
+Hong Lu, Wei Pan, Nicholas~D. Lane, Tanzeem Choudhury, and Andrew~T. Campbell.
+\newblock Soundsense: Scalable sound sensing for people-centric applications on
+  mobile phones.
+\newblock In {\em Proceedings of the 7th International Conference on Mobile
+  Systems, Applications, and Services}, MobiSys '09, pages 165--178, New York,
+  NY, USA, 2009. ACM.
+
+\bibitem{Marshall:2013:SSD:2494091.2496036}
+Joe Marshall.
+\newblock Smartphone sensing for distributed swim stroke coaching and research.
+\newblock In {\em Proceedings of the 2013 ACM Conference on Pervasive and
+  Ubiquitous Computing Adjunct Publication}, UbiComp '13 Adjunct, pages
+  1413--1416, New York, NY, USA, 2013. ACM.
+
+\bibitem{s130405317}
+Edmond Mitchell and Noel~E. Monaghan, David~O'Connor.
+\newblock Classification of sporting activities using smartphone
+  accelerometers.
+\newblock {\em Sensors}, 13(4):5317--5337, 2013.
+
+\bibitem{minsky}
+Marvin Minsky;~Seymour Papert.
+\newblock {\em Perceptrons: an introduction to computational geometry}.
+\newblock The MIT Press, 1969.
+
+\bibitem{rosenblatt1957perceptron}
+Frank Rosenblatt.
+\newblock {\em The perceptron, a perceiving and recognizing automaton Project
+  Para}.
+\newblock Cornell Aeronautical Laboratory, 1957.
+
+\bibitem{Rumelhart:1988:LRB:65669.104451}
+David~E. Rumelhart, Geoffrey~E. Hinton, and Ronald~J. Williams.
+\newblock Neurocomputing: Foundations of research.
+\newblock chapter Learning Representations by Back-propagating Errors, pages
+  696--699. MIT Press, Cambridge, MA, USA, 1988.
+
+\bibitem{levy}
+Wilhelmina D.~Kroll Samuel~Levy.
+\newblock Response of accelerometers to transient accelerations.
+\newblock {\em Response of Accelerometers to Transient Accelerations}, 45, 10
+  1950.
+
+\bibitem{vonWatzdorf:2010:APD:1899662.1899664}
+Stephan von Watzdorf and Florian Michahelles.
+\newblock Accuracy of positioning data on smartphones.
+\newblock In {\em Proceedings of the 3rd International Workshop on Location and
+  the Web}, LocWeb '10, pages 2:1--2:4, New York, NY, USA, 2010. ACM.
+
+\bibitem{werbos}
+Paul Werbos and Paul J.~(Paul~John.
+\newblock Beyond regression : new tools for prediction and analysis in the
+  behavioral sciences /.
+\newblock 01 1974.
+
+\bibitem{DBLP:journals/corr/YangH15}
+Yongxin Yang and Timothy~M. Hospedales.
+\newblock Deep neural networks for sketch recognition.
+\newblock {\em CoRR}, abs/1501.07873, 2015.
+
+\bibitem{s213}
+Paul Zandbergen and Sean Barbeau.
+\newblock Positional accuracy of assisted gps data from high-sensitivity
+  gps-enabled mobile phones.
+\newblock 64:381 -- 399, 07 2011.
+
+\bibitem{5673816}
+S.~Zhang, P.~McCullagh, C.~Nugent, and H.~Zheng.
+\newblock Activity monitoring using a smart phone's accelerometer with
+  hierarchical classification.
+\newblock In {\em 2010 Sixth International Conference on Intelligent
+  Environments}, pages 158--163, July 2010.
+
+\end{thebibliography}

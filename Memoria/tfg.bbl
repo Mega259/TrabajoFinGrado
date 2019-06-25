@@ -1,0 +1,133 @@
+\begin{thebibliography}{10}
+
+\bibitem{6488584}
+A.~Anjum and M.~U. Ilyas.
+\newblock Activity recognition using smartphone sensors.
+\newblock In {\em 2013 IEEE 10th Consumer Communications and Networking
+  Conference (CCNC)}, pages 914--919, Jan 2013.
+
+\bibitem{Carroll:2010:APC:1855840.1855861}
+Aaron Carroll and Gernot Heiser.
+\newblock An analysis of power consumption in a smartphone.
+\newblock In {\em Proceedings of the 2010 USENIX Conference on USENIX Annual
+  Technical Conference}, USENIXATC'10, pages 21--21, Berkeley, CA, USA, 2010.
+  USENIX Association.
+
+\bibitem{s150818901}
+Michael~B. del Rosario, Stephen~J. Redmond, and Nigel~H. Lovell.
+\newblock Tracking the evolution of smartphone sensing for monitoring human
+  movement.
+\newblock {\em Sensors}, 15(8):18901--18933, 2015.
+
+\bibitem{Falaki:2010:DSU:1814433.1814453}
+Hossein Falaki, Ratul Mahajan, Srikanth Kandula, Dimitrios Lymberopoulos,
+  Ramesh Govindan, and Deborah Estrin.
+\newblock Diversity in smartphone usage.
+\newblock In {\em Proceedings of the 8th International Conference on Mobile
+  Systems, Applications, and Services}, MobiSys '10, pages 179--194, New York,
+  NY, USA, 2010. ACM.
+
+\bibitem{77489867}
+Z.~Ge, P.~W.~C. Prasad, N.~Costadopoulos, A.~Alsadoon, A.~K. Singh, and
+  A.~Elchouemi.
+\newblock Evaluating the accuracy of wearable heart rate monitors.
+\newblock In {\em 2016 2nd International Conference on Advances in Computing,
+  Communication, Automation (ICACCA) (Fall)}, pages 1--6, Sept 2016.
+
+\bibitem{s131013099}
+Adil~Mehmood Khan, Muhammad~Hameed Siddiqi, and Seok-Won Lee.
+\newblock Exploratory data analysis of acceleration signals to select
+  light-weight and accurate features for real-time activity recognition on
+  smartphones.
+\newblock {\em Sensors}, 13(10):13099--13122, 2013.
+
+\bibitem{doi:10.1155/2014/503291}
+Adil~Mehmood Khan, Ali Tufail, Asad~Masood Khattak, and Teemu~H. Laine.
+\newblock Activity recognition on smartphones via sensor-fusion and kda-based
+  svms.
+\newblock {\em International Journal of Distributed Sensor Networks},
+  10(5):503291, 2014.
+
+\bibitem{KRANZ2013203}
+Matthias Kranz, Andreas Möller, Nils Hammerla, Stefan Diewald, Thomas Plötz,
+  Patrick Olivier, and Luis Roalter.
+\newblock The mobile fitness coach: Towards individualized skill assessment
+  using personalized mobile devices.
+\newblock {\em Pervasive and Mobile Computing}, 9(2):203 -- 215, 2013.
+\newblock Special Section: Mobile Interactions with the Real World.
+
+\bibitem{5504649}
+S.~Lim, T.~H. Oh, Y.~B. Choi, and T.~Lakshman.
+\newblock Security issues on wireless body area network for remote healthcare
+  monitoring.
+\newblock In {\em 2010 IEEE International Conference on Sensor Networks,
+  Ubiquitous, and Trustworthy Computing}, pages 327--332, June 2010.
+
+\bibitem{Lu:2009:SSS:1555816.1555834}
+Hong Lu, Wei Pan, Nicholas~D. Lane, Tanzeem Choudhury, and Andrew~T. Campbell.
+\newblock Soundsense: Scalable sound sensing for people-centric applications on
+  mobile phones.
+\newblock In {\em Proceedings of the 7th International Conference on Mobile
+  Systems, Applications, and Services}, MobiSys '09, pages 165--178, New York,
+  NY, USA, 2009. ACM.
+
+\bibitem{Marshall:2013:SSD:2494091.2496036}
+Joe Marshall.
+\newblock Smartphone sensing for distributed swim stroke coaching and research.
+\newblock In {\em Proceedings of the 2013 ACM Conference on Pervasive and
+  Ubiquitous Computing Adjunct Publication}, UbiComp '13 Adjunct, pages
+  1413--1416, New York, NY, USA, 2013. ACM.
+
+\bibitem{Matlab}
+MatWorks.
+\newblock Deep learning toolbox, 2018.
+
+\bibitem{s130405317}
+Edmond Mitchell and Noel~E. Monaghan, David~O'Connor.
+\newblock Classification of sporting activities using smartphone
+  accelerometers.
+\newblock {\em Sensors}, 13(4):5317--5337, 2013.
+
+\bibitem{978924156525}
+World~Health Organization.
+\newblock Global report on diabetes, 2016.
+
+\bibitem{1-58053-493-7}
+Y.~P.S. Hall;~Hao.
+\newblock {\em Antennas and Propagation for Body-Centric Wireless Networks}.
+\newblock Artech House, 2006.
+
+\bibitem{doi:10.1258/1357633054461994}
+M~Scheffler and E~Hirt.
+\newblock Wearable devices for telemedicine applications.
+\newblock {\em Journal of Telemedicine and Telecare}, 11(1\_suppl):11--14,
+  2005.
+\newblock PMID: 16035978.
+
+\bibitem{1530994}
+K.~A. Townsend, J.~W. Haslett, T.~K.~K. Tsang, M.~N. El-Gamal, and K.~Iniewski.
+\newblock Recent advances and future trends in low power wireless systems for
+  medical applications.
+\newblock In {\em Fifth International Workshop on System-on-Chip for Real-Time
+  Applications (IWSOC'05)}, pages 476--481, July 2005.
+
+\bibitem{vonWatzdorf:2010:APD:1899662.1899664}
+Stephan von Watzdorf and Florian Michahelles.
+\newblock Accuracy of positioning data on smartphones.
+\newblock In {\em Proceedings of the 3rd International Workshop on Location and
+  the Web}, LocWeb '10, pages 2:1--2:4, New York, NY, USA, 2010. ACM.
+
+\bibitem{s213}
+Paul Zandbergen and Sean Barbeau.
+\newblock Positional accuracy of assisted gps data from high-sensitivity
+  gps-enabled mobile phones.
+\newblock 64:381 -- 399, 07 2011.
+
+\bibitem{5673816}
+S.~Zhang, P.~McCullagh, C.~Nugent, and H.~Zheng.
+\newblock Activity monitoring using a smart phone's accelerometer with
+  hierarchical classification.
+\newblock In {\em 2010 Sixth International Conference on Intelligent
+  Environments}, pages 158--163, July 2010.
+
+\end{thebibliography}

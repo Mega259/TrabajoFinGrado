@@ -1,0 +1,52 @@
+\babel@toc {spanish}{}
+\contentsline {section}{Resumen}{4}{section*.2}
+\contentsline {section}{Abstract}{5}{section*.3}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{6}{section.1}
+\contentsline {section}{\numberline {2}Antecedentes}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Inicios}{7}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Tecnolog\IeC {\'\i }a Wireless}{7}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Sensores de se\IeC {\~n}ales vitales}{8}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Identificar el movimiento}{13}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Sensores}{13}{subsubsection.2.4.1}
+\contentsline {paragraph}{Sensores de movimientos MEMS}{13}{section*.5}
+\contentsline {paragraph}{Sensores ambientales MEMS}{13}{section*.6}
+\contentsline {paragraph}{Sensores audiovisuales}{14}{section*.7}
+\contentsline {paragraph}{Sensor de posici\IeC {\'o}n GPS}{14}{section*.8}
+\contentsline {paragraph}{Sensor PPG}{14}{section*.9}
+\contentsline {subsubsection}{\numberline {2.4.2}Desarrollo del algoritmo}{15}{subsubsection.2.4.2}
+\contentsline {subparagraph}{Modelo oculto de Markov}{16}{section*.10}
+\contentsline {subparagraph}{K vecinos m\IeC {\'a}s pr\IeC {\'o}ximos}{16}{section*.11}
+\contentsline {subparagraph}{Maquinas de vectores de soporte}{16}{section*.12}
+\contentsline {subparagraph}{Redes Bayesianas}{16}{section*.13}
+\contentsline {subparagraph}{Regresiones log\IeC {\'\i }sticas}{16}{section*.14}
+\contentsline {subparagraph}{Clasificador bayesiano ingenuo}{17}{section*.15}
+\contentsline {subparagraph}{\IeC {\'A}rbol de decisiones}{17}{section*.16}
+\contentsline {subparagraph}{Redes neuronales}{17}{section*.17}
+\contentsline {subsubsection}{\numberline {2.4.3}Limitaciones}{17}{subsubsection.2.4.3}
+\contentsline {paragraph}{Gasto de bater\IeC {\'\i }a}{17}{section*.18}
+\contentsline {paragraph}{Modelos de posici\IeC {\'o}n fija}{18}{section*.20}
+\contentsline {paragraph}{Modelos de posici\IeC {\'o}n dependiente}{19}{section*.22}
+\contentsline {paragraph}{Modelos independientes de la posici\IeC {\'o}n}{20}{section*.23}
+\contentsline {subsection}{\numberline {2.5}Introducci\IeC {\'o}n a las redes neuronales}{21}{subsection.2.5}
+\contentsline {subsubsection}{\numberline {2.5.1}Definici\IeC {\'o}n}{21}{subsubsection.2.5.1}
+\contentsline {subsubsection}{\numberline {2.5.2}Estructura biol\IeC {\'o}gica}{21}{subsubsection.2.5.2}
+\contentsline {subsubsection}{\numberline {2.5.3}Estructura en el software}{23}{subsubsection.2.5.3}
+\contentsline {subsubsection}{\numberline {2.5.4}Algoritmo de entrenamiento: Backpropagation}{26}{subsubsection.2.5.4}
+\contentsline {section}{\numberline {3}Descripci\IeC {\'o}n del sistema}{31}{section.3}
+\contentsline {subsection}{\numberline {3.1}Smartphone}{31}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Smartwatch}{31}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Software}{32}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Android Studio}{32}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Matlab}{33}{subsubsection.3.3.2}
+\contentsline {subsection}{\numberline {3.4}Red Neuronal}{34}{subsection.3.4}
+\contentsline {section}{\numberline {4}Metodolog\IeC {\'\i }a}{36}{section.4}
+\contentsline {subsection}{\numberline {4.1}Toma de datos}{36}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}An\IeC {\'a}lisis de los datos}{37}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Reposo}{38}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Andando}{39}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Corriendo}{40}{subsubsection.4.2.3}
+\contentsline {subsubsection}{\numberline {4.2.4}Cayendo}{41}{subsubsection.4.2.4}
+\contentsline {subsubsection}{\numberline {4.2.5}Comentarios de los datos}{42}{subsubsection.4.2.5}
+\contentsline {subsection}{\numberline {4.3}Programaci\IeC {\'o}n}{45}{subsection.4.3}
+\contentsline {section}{\numberline {5}Resultados}{50}{section.5}
+\contentsline {section}{\numberline {6}Conclusiones}{52}{section.6}

@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+
+    <ToggleButton
+        android:id="@+id/isOn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Activo" />
+
+    <TextView
+        android:id="@+id/redNeuronal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RED NEURONAL: " />
+
+    <Button
+        android:id="@+id/sendbtn"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight=".5"
+        android:text="Send message" />
+
+    <Button
+        android:id="@+id/startbtn"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight=".5"
+        android:text="Start Activity on watch" />
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/logger"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:text="Output:\n" />
+    </ScrollView>
+
+</LinearLayout>

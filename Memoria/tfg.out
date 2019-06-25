@@ -1,0 +1,34 @@
+\BOOKMARK [1][-]{section*.2}{Resumen}{}% 1
+\BOOKMARK [1][-]{section*.3}{Abstract}{}% 2
+\BOOKMARK [1][-]{section.1}{Introducci\363n}{}% 3
+\BOOKMARK [1][-]{section.2}{Antecedentes}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Inicios}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Tecnolog\355a Wireless}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Sensores de se\361ales vitales}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.4}{Identificar el movimiento}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Sensores}{subsection.2.4}% 9
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Desarrollo del algoritmo}{subsection.2.4}% 10
+\BOOKMARK [3][-]{subsubsection.2.4.3}{Limitaciones}{subsection.2.4}% 11
+\BOOKMARK [2][-]{subsection.2.5}{Introducci\363n a las redes neuronales}{section.2}% 12
+\BOOKMARK [3][-]{subsubsection.2.5.1}{Definici\363n}{subsection.2.5}% 13
+\BOOKMARK [3][-]{subsubsection.2.5.2}{Estructura biol\363gica}{subsection.2.5}% 14
+\BOOKMARK [3][-]{subsubsection.2.5.3}{Estructura en el software}{subsection.2.5}% 15
+\BOOKMARK [3][-]{subsubsection.2.5.4}{Algoritmo de entrenamiento: Backpropagation}{subsection.2.5}% 16
+\BOOKMARK [1][-]{section.3}{Descripci\363n del sistema}{}% 17
+\BOOKMARK [2][-]{subsection.3.1}{Smartphone}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.2}{Smartwatch}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.3}{Software}{section.3}% 20
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Android Studio}{subsection.3.3}% 21
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Matlab}{subsection.3.3}% 22
+\BOOKMARK [2][-]{subsection.3.4}{Red Neuronal}{section.3}% 23
+\BOOKMARK [1][-]{section.4}{Metodolog\355a}{}% 24
+\BOOKMARK [2][-]{subsection.4.1}{Toma de datos}{section.4}% 25
+\BOOKMARK [2][-]{subsection.4.2}{An\341lisis de los datos}{section.4}% 26
+\BOOKMARK [3][-]{subsubsection.4.2.1}{Reposo}{subsection.4.2}% 27
+\BOOKMARK [3][-]{subsubsection.4.2.2}{Andando}{subsection.4.2}% 28
+\BOOKMARK [3][-]{subsubsection.4.2.3}{Corriendo}{subsection.4.2}% 29
+\BOOKMARK [3][-]{subsubsection.4.2.4}{Cayendo}{subsection.4.2}% 30
+\BOOKMARK [3][-]{subsubsection.4.2.5}{Comentarios de los datos}{subsection.4.2}% 31
+\BOOKMARK [2][-]{subsection.4.3}{Programaci\363n}{section.4}% 32
+\BOOKMARK [1][-]{section.5}{Resultados}{}% 33
+\BOOKMARK [1][-]{section.6}{Conclusiones}{}% 34

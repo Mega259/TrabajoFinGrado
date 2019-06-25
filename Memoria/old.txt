@@ -1,0 +1,57 @@
+\section{Basura}
+Al principio, se han basado en sistemas adyacentes al smartphone, como un microfono externo conectado mediante el micro usb del dispositivo\cite{6206966}, de forma que se veían señales de audio fisiológicas, como puede ser el pulso\cite{s150408712} o la respiración. Aunque esto no ha dejado de ser utilizado, de hecho, es una solución popular, el objetivo de este trabajo es utilizar los medios de los que dispone el smartphone o un smartwatch para hacer las mediciones.
+
+También se ha usado el smartphone como sistema de identificación en estudios de hospitales, en el que se usaba la cámara o la huella dactilar para identificar al usuario al que pertenecen ciertos datos\cite{s150509854}, sin embargo, ese uso como simple identificador personal no es lo que buscamos en este trabajo.
+
+En este trabajo buscamos usar los propios sensores del smartphone o de un smartwatch para hacer un estudio general de los parámetros del usuario. Para ello, debemos usar los sensores que vienen incluidos en un sistema android.
+
+Un tema muy trabajado ya es sobre el estado de movimiento. De esto se llevan haciendo estudios años, es decir, identificar quieto, andando, corriendo, caidas etc. El uso que se pretendia a esto es la detección de caidas en pacientes en riesgo, como ancianos o otro tipo de enfermos. La detección y prevención de caidas ha sido uno de los motores del desarrollo de aplicaciones con sensores en android debido al coste que suponen para la sanidad pública de un país y su aparente fácilidad de prevención o detección rápida si los usuarios, que suelen tener un smartphone tuvieran una aplicación para detectar caidas con fiabilidad. Desde 2009 se han hecho infinidad de estudios sobre el tema, usando los sensores de un smartphone, o con un sistema adyacente a él, y se usan métodos de machine learning o estadísticos para crear un modelo lo más fiable posible\cite{s150817827}. 
+
+Y aunque no es el objetivo último de este trabajo, es interesante ver como ha ido avanzando este aspecto pues en base a él se ha desarrollado todo el sistema de detección android.
+
+Sobre estos trabajos que se han realizados podemos ver que el dispositivo android podía tener hasta tres tipos de roles. El primero es como sensor. Es decir, que el dispositivo se encargaba de medir y transmitir los datos a un ordenador u otro dispositivo. También está el rol de analisis de datos, en el que el dispositivo hacia tratamiento de lo medido y finalmente el rol de comunicación con el hospital o persona de emergencia en el caso de caida. Los tres roles son importantes teniendo en cuenta el objetivo final de la aplicación que se desarrolle.
+
+Antes de continuar, hay que hablar de que sensores dispone un smartphone actual.
+
+El primero es el sensor de movimiento MEMS. MMES son las siglas en inglés de microelectromechanical system, en español sistema microelectromecanico. Con esto nos referimos al acelerometro y al giroscopio integrados en una unidad de detección de inercia(IMU). Estos nos da 6 grados de libertad, los 3 ejes del acelerometro y los 3 del giroscópio, lo cual nos permite detectar el estado del movimiento, giros. En los smartphones actuales, además de esto, llevan un magnetometro integrado, creando lo que se conoce como MIMU.
+
+El magnetometro detecta el campo magnético y con ello permite ver la orientación del móvil con respecto al polo norte, de forma que se puede ver la orientación espacial del móvil.
+
+Además, la altura del smartphone se puede detectar con el barómetro.
+
+Con todo esto tenemos que podemos detectar la aceleración con el acelerometro, los giros con el giroscopio, la dirección con el magnetometro y la altura con el barómetro. Con estos cuatro sensores se estudia el estado de movimiento.
+
+Además del estado de movimiento, se puede estudiar la posicion con el sistema GPS incorporado. El GPS ha pasado de tener una precisión de 300m-1km\cite{vonWatzdorf:2010:APD:1899662.1899664} a tener precisión de metros en los últimos años\cite{s213}, donde con la ayuda de las redes móviles, la fuerza de la señal wifi y el bluetooth se alcanzan pecisiones muy altas incluso en edificios y zonas donde antes no era posible.
+
+Aparte de esto, están las señales audio y visuales. Se han identificado en señales de audio el tipo de sonido detectado, como hablar, música o sonidos de ciudad como conducir, un ascensor etc\cite{Lu:2009:SSS:1555816.1555834}. También se han usado las señales acústicas para determinar el estado de movimiento del sistema junto al acelerometro y giroscopio \cite{doi:10.1155/2014/503291}.
+
+Son muchos sensores de los que dispone un sistema android, usarlos todos en todo momento nos daría una imagen perfecta o casi perfecta de la situación de movimiento del usuario. Sin embargo usarlos todos constantemente tiene problemas, el primero de bateria. Hemos visto como se paso de baterias que duraban semanas en los antiguos Nokias a baterias de dia y medio o menos, que es lo que ocurre habitualmente ahora. Poner a trabajar todos los sensores y el procesador con los datos puede ser mortal para la duración de batería del dispositvo. Debido a ello se utilizan alternativas al recoger todo y analizar. 
+
+Hablando de esto, se ha estudiado que hay tres factores que afectan al gasto de bateria de un smartphone, el primero es el numero de interacciones entre el usuario y el smartphone, las aplicaciones instaladas y usadas por el usuario y finalmente el hardware y el sistema operativo del terminal\cite{Falaki:2010:DSU:1814433.1814453}. Además, se ha estudiado que en estado de suspensión, bateria apagada pero smartphone encendido el principal consumidor es el modulo GSM, el encargado de la conexión por datos a internet. Por el contrario, si el teléfono esta encendido, pero en idle, es decir, no tiene aplicaciones corriendo en segundo plano, es el procesador gráfico lo que más consume\cite{Carroll:2010:APC:1855840.1855861}.
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=1\textwidth]{batterylife.png}
+    \caption{Una adaptación del articulo de Carrol y Heiser\cite{Carroll:2010:APC:1855840.1855861}}
+    \label{fig:mesh1}
+\end{figure}
+
+Otro problema de usar un smartphone es que su posicion no es fija, puede estar en distintas partes del cuerpo,
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=1\textwidth]{position.png}
+    \caption{Ejemplo de distintas posiciones de un smartphone.}
+    \label{fig:mesh1}
+\end{figure}
+y nuestro algoritmo debe tenerlas en cuenta. Tienen ventajas e inconvenientes. 
+
+Si se usa un algoritmo de posición fija, se obliga al usuario a tener que llevar el dispositivo de una determinada forma siempre, fijo, pero a cambio, al saber su posición exacta el algoritmo puede ser mucho mas preciso, ya que toma en cuenta principios de la biomecánica aplicados a esa zona concreta. Aunque si el objetivo es el estado de movimiento, el smartphone ha de estar lo más cerca posible del centro de masas, por eso la mayoria de los estudios tienen el smartphone fijo en un cinturón\cite{5673816}.
+
+El siguiente nivel de dificultad es suponer que el smartphone estará siempre por la misma zona, como puede ser el bolsillo delantero o en la oreja por una llamada o en el bolsillo del pantalón. La ventaja es que no tiene que estar fijo pegado al cuerpo, lo cual es más comodo para el usuario.
+
+Finalmente, estan los algoritmos que son idependientes de la posicion del smartphone respecto al cuerpo. Son comodos para el usuario pero todavía no son perfectos. Por ejemplo, en este artículo\cite{6488584}, se detectan siete tipos de movimiento, pero no es capaz de detectar las 3 posiciones estacionarias tipicas, de pie, sentado o tumbado ni transiciones entre ellas.
+
+Por suerte para nosotros, vamos a tratar con smartwatches. He metido bastante con el smarthphone porque es importante comprender donde estamos con ellos, ya que mucho de lo que se ha tratado se puede trasladar a un smartwatch sin mucha complicación. Viendo el último tema, podemos ver que con un smartwatch nos interesa un algoritmo de posición fija, ya que va a estar siempre en la muñeca, y normalmente la izquierda, con lo que simplificamos mucho el algoritmo sin quitar comodidad al usuario, ya que es la posición en la que lo iba a llevar de todas formas.
+
+Los smartwatches además cuentan con un sensor más, para medir las pulsaciones por minuto del usuario. Usan un sistema conocido en inglés como photoplethysmography(PPG), o en español fotopletismografía. Se sabe que la sangre absorbe el verde y rebota el rojo, y esto es aprovechado por el sistema para, usando luces led, saber la cantidad de sangre que fluye por tu muñeca en un periodo de tiempo. Es fácil calcular el pulso pues en cada pulso va a haber un máximo de absorción/emisión. Este sistema se diferencia del habitual de electrocardiograma(ECG) en que éste último utiliza lee las señales eléctricas que reciben los músculos para hacer una contracción. El ECG es el método más preciso, pero en estudios recientes se ha visto que la diferencia entre uno y otro no es más de un 10\% \cite{77489867} en el peor de los casos, de forma que el método PPG tiene ciertas ventajas, principalmente la comodidad ya que el usuario no necesita una banda con electrodos colocada por todo el cuerpo.
+
+Por otro lado, los smartwatches contienen los mismos sensores que hablamos de los smartphones, por lo que con un mismo dispositivo se puede leer el estado de movimiento, las pulsaciones, la posición mediante el gps. Con todo esto tenemos muchas variables que pueden ser usadas para hacer un estudio más específico y profundo de un paciente.
