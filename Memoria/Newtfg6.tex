@@ -949,7 +949,7 @@ Pero estos no son los dos únicos errores a los que acostumbran las redes neuron
 
 
 \chapter{Metodología}
-En este capítulo se va a describir la metodología para la obtención de los resultados de la parte experimental del proyecto. Esta metodología se ha estructurado en tres fases. En primer lugar, la toma de datos, por el \textit{smartwatch}. Posteriormente estos datos han de ser enviados al \textit{smartphone}. Finalmente, estos datos en el \textit{smartphone} son clasificados por la inteligencia artificial aplicada. Se procederá a continuación a detallar el proceso.
+En este capítulo se va a describir la metodología para la obtención de los resultados de la parte experimental del trabajo. Esta metodología se ha estructurado en tres fases. En primer lugar, la toma de datos, por el \textit{smartwatch}. Posteriormente estos datos han de ser enviados al \textit{smartphone}. Finalmente, estos datos en el \textit{smartphone} son clasificados por la inteligencia artificial aplicada. Se procederá a continuación a detallar el proceso.
 
 \section{Toma de datos}
 
@@ -985,12 +985,12 @@ Cayendo & Proceso de pruebas por repetición \\
 \label{tabla1}
 \end{table}
 
-Sobre la toma de datos comentar que el recorrido fijo era un circuito cerrado, en el que se tomaban los datos por tiempo, no por distancia. Y posteriormente, el proceso de toma de datos de caídas fue la toma de datos de caídas de un usuario de pruebas en distintas posiciones y direcciones.
+La toma de datos se hizo en un recorrido fijo de circuito cerrado. Las medidas de las caídas fueron tomadas en distintas posiciones y direcciones.
 
 \newpage
 \section{Análisis de los datos}
 
-A continuación se van a mostrar los datos obtenidos. Pero primero veamos un estudio general de los datos, como se muestra en la tabla \ref{tabla2}.
+A continuación se van a mostrar los datos obtenidos, analizando en primer lugar las características generales de estos datos que aparecen representadas en la Tabla \ref{tabla2}.
 \begin{table}[h]
 \centering
 \caption{Datos generales}
@@ -1012,9 +1012,9 @@ Máximo & 72.937500 & 78.437500 & 78.437500 \\
 \label{tabla2}
 \end{table}
 
-Donde se pueden observar varias cosas. Lo primero es que los valores mínimo y máximo coinciden en valor absoluto en 4 de 6 casos posibles, lo cual nos hace intuir que el valor máximo de medida del acelerómetro es ese. Esto podría ser un problema, pero en este caso, la media en los tres ejes está en [-4, 5] y la desviación típica es menor a 10 en todos casos, por lo que la mayoría de los puntos medidos están lejos de esos valores máximos de corte.  A ese valor máximo se le llamará aceleración de corte.
+Se pueden observar varios aspectos de interés. Lo primero es que los valores mínimo y máximo coinciden en valor absoluto en 4 de 6 casos posibles, lo cual nos hace intuir que el valor máximo de medida del acelerómetro es ese. Esto podría ser un problema, pero en este caso, la media en los tres ejes está en [-4, 5] y la desviación típica es menor a 10 en todos casos, por lo que la mayoría de los puntos medidos están lejos de esos valores máximos de corte.  A ese valor máximo se le llamará aceleración de corte.
 
-Los datos miden directamente la aceleración sufrida en $m s^{-2}$. La frecuencia de recogida de datos es de 17 H, es decir, 17 medidas por segundo. En las gráficas de las paginas posteriores, el eje Y corresponde a la aceleración medida, y el eje X es el número de muestra que es.
+Los datos miden directamente la aceleración sufrida en $m s^{-2}$. La frecuencia de recogida de datos es de 17 Hz, es decir, 17 medidas por segundo. En las gráficas de las paginas posteriores, el eje Y corresponde a la aceleración medida, y el de abscisas al número de muestra.
 
 Con esta frecuencia de recogida nos aseguramos de que ningún evento de los que se quieren medir va a ocurrir en un intervalo entre dos medidas, es decir, que no se detectara. En nuestro caso implica que no se podrían medir sin perdidas eventos que duren 1/17 s o más. Si el tiempo de reacción media de un humano es de 0.15 segundos, y cayendo es evidente en la experiencia que nos da tiempo a reaccionar y colocar las manos o al menos intentar evitar mayores daños, se entiende que la caída dura más, por lo que tiene una frecuencia mayor a 1/17 Hz, y por tanto, el evento más rápido de los que medimos tiene una duración mayor a la necesaria, y el resto duran más que las caídas por lo que se pueden detectar. 
 
@@ -1043,7 +1043,7 @@ Máximo & 0.605469 & 0.385254 & 11.187500 \\
 \label{tabla3}
 \end{table}
 
-Como es lógico, en estos datos la desviación típica es muy baja, lo que indica que los datos no están desperdigados. Esto es así porque en los datos en reposo no ha habido movimientos y por tanto el acelerómetro ha estado mandado datos similares. Es por otro lado lógico que en el eje Z detecte en torno a 10, ya que ese es el valor aproximado de la aceleración gravitatoria terrestre.
+Como es lógico, en estos datos la desviación típica es muy baja, lo que indica que los datos no están dispersos. Esto es así porque en los datos en reposo no ha habido movimientos y por tanto el acelerómetro ha estado mandado datos similares. Es por otro lado lógico que en el eje Z detecte en torno a 10, ya que ese es el valor aproximado de la aceleración gravitatoria terrestre.
 
 \begin{figure}[h]
     \centering
@@ -1052,7 +1052,7 @@ Como es lógico, en estos datos la desviación típica es muy baja, lo que indic
     \label{fig:reposodatos}
 \end{figure}
 
-En la gráfica de los datos de la figura \ref{fig:reposodatos} de puede observar que los datos son estables salvo pequeños movimientos. El eje Y representa la aceleración en $m s^{-2}$ sufrida y el eje X es simplemente el número del dato.
+En la gráfica de los datos de la figura \ref{fig:reposodatos} se puede observar que los datos son estables salvo pequeños movimientos. El eje de ordenadas representa la aceleración en $m s^{-2}$ sufrida y el eje de abscisas es simplemente el número del muestra.
 
 \newpage
 \subsection{Andando}
@@ -1080,7 +1080,7 @@ Máximo & 11.601562 & 8.281250 & 14.507812 \\
 \label{tabla4}
 \end{table}
 
-Como se puede observar, ahora la desviación típica es mucho mayor, lo que implica una mayor espectro de valores de los datos. También se puede ver que en ningún momento el valor de los máximos o mínimos coincide con los valores de la \ref{tabla2}, por lo que todos los datos de andando están por debajo de la aceleración de corte.
+Como se puede observar, ahora la desviación típica es mucho mayor, lo que implica una mayor rango de valores de los datos. También se puede ver que en ningún momento el valor de los máximos o mínimos coincide con los valores de la \ref{tabla2}, por lo que todos los datos de andando están por debajo de la aceleración de corte.
 
 \begin{figure}[h]
     \centering
@@ -1176,28 +1176,22 @@ Todo esto, junto a que el funcionamiento superior por parte de la vía algorítm
 
 \section{Programación}
 
-Para extraer los datos, se han usado las herramientas de Android. Esto simplifica mucho el trabajo ya que no hay que programar una interfaz completa de comunicación, vale con la incluida en Android. Esta es la \textit{Data Layer}. Es una capa de datos que se sincroniza entre todas las instancias del programa. Esto quiere decir que si la aplicación desde el módulo del \textit{smartwatch} manda un dato a esta capa, la aplicación desde el \textit{smartphone} tiene acceso a esos datos. Así, la comunicación es mucho más sencilla. En la figura \ref{fig:datalayer} se puede ver un pequeño esquema de esto.
-
-\begin{figure}[h]
-    \centering
-    \includegraphics[width=1\textwidth]{esquemacodigo.png}
-    \caption{Esquema funcionamiento de la capa de datos.}
-    \label{fig:datalayer}
-\end{figure}
-
+Para extraer los datos, se han usado las herramientas de Android. Esto simplifica mucho el trabajo ya que no hay necesidad programar una interfaz completa de comunicación, vale con la incluida en Android, conocida como \textit{Data Layer}. Es una capa de datos que se sincroniza entre todas las instancias del programa. Esto quiere decir que si la aplicación desde el módulo del \textit{smartwatch} manda un dato a esta capa, la aplicación desde el \textit{smartphone} tiene acceso a esos datos. Así, la comunicación es mucho más sencilla.
 
 Hay que programar el acceso a la data layer para escribir y para leer. Para ello, primero tenemos que encontrar los nodos conectados. Cada instancia de la aplicación en cada dispositivo es un nodo, en nuestro caso hay dos nodos, el del \textit{smartwatch} y el del \textit{smartphone}. La forma más sencilla es crear un servicio en cada nodo que se encarga automáticamente de recibir y mandar mensajes. Así, con un pequeño fragmento de código se está comprobando constantemente si hay datos nuevos y si están en el sitio que nos interesa. Hay que definir un camino (ruta) donde van a estar los datos, en el código se llama \textit{message\_path}. Si está en el lugar adecuado, entonces ese mensaje se manda a la actividad principal y se muestra en pantalla.
 
 Por otro lado, en el tratamiento de datos, se utiliza el \textit{interpreter} de TFlite, el paquete de TensorFlow pensado para Android. Para usarlo, se ha de añadir el archivo donde se guarda la red neuronal en la carpeta de \textit{assets} del proyecto. Una vez ahí, solo hay que hacer las llamadas con un dato de entrada válido y un vector de salida.
 
-Cuando esto ocurre, el \textit{interpreter} devuelve un vector de salida, donde se muestra la probabilidad que le otorga la red neuronal a cada clase. Esto se aprovecha para ir haciendo la suma de varias mediciones para obtener un resultado mejor. En este caso, se ha elegido acumular ocho medidas, ya que se entiende que ese arco de alrededor de medio segundo ofrece una ventana de información muy buena para detectar los movimientos. Es lo suficientemente corto como para responder rápido a los cambios del usuario y aumenta la precisión del resultado.
+Cuando esto ocurre, el \textit{interpreter} devuelve un vector de salida, donde se muestra la probabilidad que le otorga la red neuronal a cada clase. Esto se aprovecha para ir haciendo la suma de varias mediciones para obtener un resultado mejor. En este caso, se ha elegido acumular ocho medidas, ya que se entiende que ese arco de alrededor de medio segundo ofrece una ventana de información adecuada para detectar los movimientos. Es lo suficientemente corto como para responder rápido a los cambios del usuario y aumenta la precisión del resultado al promediar entre varias medidas.
 
-Finalmente, esta predicción de la actividad detectada tras ocho medidas (aproximadamente medio segundo) se muestra en pantalla. Además, puede ser guardada en un archivo de texto para ser usado posteriormente en estudios.
+Finalmente, esta predicción de la actividad detectada tras ocho medidas (aproximadamente medio segundo) se muestra en pantalla. Además, puede ser guardada en un archivo de texto para ser analizados con mayor detalle posteriormente.
 
 \newpage
 \chapter{Resultados}
 
-Primero se procederá con los datos de entrenamiento de la red neuronal. A continuación en la figura \ref{fig:possibleBF}, se muestra la precisión del entrenamiento frente a la precisión de validación. 
+A continuación se mostrarán y explicarán los resultados obtenidos en diversas fases del proyecto. Primero, se procederá con los obtenidos en Python, en el entrenamiento de la red neuronal. Posteriormente se mostrarán los obtenidos en Android.
+
+Primero se procederá con los datos de entrenamiento de la red neuronal. A continuación en la figura \ref{fig:possibleBF}, se muestra la precisión del entrenamiento frente a la precisión de validación. En este caso, la precisión mide el número de muestras acertadas por la red neuronal entre las totales. En el eje de ordenadas se observa la precisión total. En el de abscisas el número de eras por el que pasa la red neuronal. Se considera una era cada vez que la red clasifica todos los datos.
 
 \begin{figure}[h]
     \centering
@@ -1207,17 +1201,18 @@ Primero se procederá con los datos de entrenamiento de la red neuronal. A conti
 \end{figure}
 
 \newpage
-Se puede observar que la precisión de validación es menor que la precisión de los datos de entrenamiento, algo lógico, ya que la red se está entrenando en función a ellos, pero no es preocupante ni estamos ante un caso de \textit{overfit} como el de la figura \ref{fig:overfit}, ya que la precisión de los datos de validación sigue aumentando y la diferencia de precisión no es muy alta, menos del 3\%. Los datos finales son de una precisión del 81\% a nivel de red neuronal y posteriormente en Android aumenta más.
+Se puede observar que la precisión de validación es menor que la precisión de los datos de entrenamiento, algo lógico, ya que la red se está entrenando en base a ellos, pero no es preocupante ni estamos ante un caso de \textit{overfit} como el de la figura \ref{fig:overfit}, ya que la precisión de los datos de validación sigue aumentando y la diferencia de precisión no es muy alta, menos del 3\%. Los datos finales son de una precisión del 81\% a nivel de red neuronal y posteriormente en Android aumenta más.
 
-Para un estudio más en profundidad de los datos existe lo que se llama una matriz de confusión, que es una forma gráfica de ver los resultados de la red y donde se encuentran los errores.
+Para un estudio más en profundidad de los datos existe lo que se denomina comúnmente una matriz de confusión, que es una forma gráfica de ver los resultados de la red y donde se encuentran los errores.
 
-La tabla \ref{confusionTraining} muestra la matriz de confusión de los datos de entrenamiento. Las celdas de la diagonal principal muestra el número de datos que son de la clase, por orden, reposo, andando, corriendo y cayendo y que han sido medidos por la red neuronal como esa clase, es decir, una medida exitosa. Las filas muestran el número de datos de cada medida que se han confundido con otra, y las columnas muestran todos los datos que la red neuronal ha medido como cada clase. De esta forma, las filas sirven para hacerse una idea de la precisión de las medidas, si acierta o no, y las columnas pueden ser usados para ver el número de falsos positivos.
+La tabla \ref{confusionTraining} muestran la matriz de confusión de los datos de entrenamiento. Las columnas muestra los datos de la clase y la clasificación que ha hecho la red neuronal. Por tanto, la primera columna, los datos en reposo, de los 4632 datos que había, la red neuronal ha clasificado 4101 como reposo, 10 como andando, 9 como corriendo y 512 como cayendo. Esto hace una precisión del 89\%, como se muestra en la última fila. Por otro lado, las filas de datos muestran todos los datos clasificados como cada clase. Por ejemplo, la segunda fila, de andando, muestra que la red ha clasificado correctamente 3490 datos y erroneamente en forma de falsos positivos los 321 restantes, y el porcentaje de datos correctos entre la suma de los correctos y los falsos positivos se muestra en la última columna.
+
 
 \begin{table}[h]
 \centering
 \begin{tabular} {| c || c | c | c | c || c |}
   \hline
-   & Reposo & Andando & Corriendo & Caídas & \\
+   & Reposo & Andando & Corriendo & Caídas & \% $\frac{aciertos}{aciertos + falsos \, positivos}$\\
   \hline
   \hline
   Reposo & \cellcolor{green!25}4101 & 0 & 0 & 0 & 100\% \\
@@ -1229,7 +1224,7 @@ La tabla \ref{confusionTraining} muestra la matriz de confusión de los datos de
   Cayendo & 512 & 282 & 832 & \cellcolor{green!25}1806 & 52\% \\
   \hline
   \hline
-   & 89\% & 74\% & 72\% & 89\% & \\
+  \% aciertos red & 89\% & 74\% & 72\% & 89\% & \\
   \hline
 \end{tabular}
 \caption{Matriz de confusión de los datos de entrenamiento.}
@@ -1242,7 +1237,7 @@ En la tabla \ref{confusionValidation} se puede ver la matriz de confusión de lo
 \centering
   \begin{tabular} {| c || c | c | c | c || c |}
   \hline
-   & Reposo & Andando & Corriendo & Caídas & \\
+   & Reposo & Andando & Corriendo & Caídas & \% $\frac{aciertos}{aciertos + falsos \, positivos}$\\
   \hline
   \hline
   Reposo & \cellcolor{green!25}1250 & 0 & 0 & 0 & 100\% \\
@@ -1254,15 +1249,15 @@ En la tabla \ref{confusionValidation} se puede ver la matriz de confusión de lo
   Caída & 87 & 77 & 183 & \cellcolor{green!25}403 & 54\% \\
   \hline
   \hline
-   & 	93\% & 77\% & 74\% & 88\% & \\
+  \% aciertos red & 93\% & 77\% & 74\% & 88\% & \\
   \hline
   \end{tabular}
     \caption{Matriz de confusión de los datos de validación.}
   \label{confusionValidation}
 \end{table}
 
-
-De estas tablas se puede sacar mucha información interesante, como que confunde mucho datos de correr como andando o de caídas como corriendo. Esto se puede aprovechar en el desarrollo del algoritmo de Android para dar más peso a una variable u otra. También se puede observar que los datos de reposo los toma muy bien, nunca se confunde cuando es, y apenas presenta falsos positivos. Por otro lado, los datos de caída presentan un alto número de falsos positivos, pero no es un problema porque a nivel de código en Android se puede compensar.
+\newpage
+De estas tablas se puede sacar mucha información interesante. Quizá la más llamativa sea el número de falsos positivos entre los datos de caída. Esto podría ser un grave problema para el funcionamiento de una aplicación. Sin embargo, al promediar los datos de ocho medidas en la aplicación este efecto disminuye notablemente. Además, como las caídas eran el único patrón que se podía obtener de forma determinista de forma clara, se le han añadido a la detección para dar más peso a las caídas. 
 
 
 \begin{figure}[h]
@@ -1297,8 +1292,9 @@ A continuación, unos comentarios sobre el trabajo:
 
 Como posibles ampliaciones de este trabajo, se proponen varias cosas. Primeramente, la red neuronal es un Perceptrón multicapa, por lo que se podría obtener mejores resultados con una red convolucional. Si ocurriera eso, habría que implementar la librería de TensorFlow completa para Android, ya que TFlite no contiene todas las funciones de este tipo de redes. Esto haría que la precisión aumentase a costa de un pequeño gasto de batería, ya que la librería completa no está tan optimizada.
 
-Otra posible ampliación sería tomar más datos simultáneamente, por ejemplo acelerómetro y giroscopio a la vez. No es posible en \textit{WearOS} actualmente tomarlo a la vez. Se puede tomar salteado pero no se sabe si manda un dato de acelerómetro, uno de giroscopio y así sucesivamente o te manda diez datos seguidos del acelerómetro y luego otros veintiocho del giroscopio, lo cual hace que no sea viable en \textit{WearOS}.
+Otra posible ampliación sería tomar más datos simultáneamente, por ejemplo acelerómetro y giroscopio a la vez. No es posible en \textit{WearOS} actualmente tomarlo a la vez. Se puede tomar salteado pero no se sabe si manda un dato de acelerómetro, uno de giroscopio y así sucesivamente o te manda diez datos seguidos del acelerómetro y luego otros veintiocho del giroscopio, lo que lo hace inviable. Probablemente con un hardware personalizado en este aspecto podría funcionar mejor.
 
+Se podría probar un método determinista para detectar los patrones. El acelerómetro de este dispositivo puede mandar hasta cíen muestras por segundo, lo que hace una imagen más completa. Esto tendría como retos optimización del proceso, ya que tiene muchos más datos que tratar y además tendrá que transformarlos y aplicarles algoritmos de transformada rápida de Fourier.
 
 
 
@@ -1309,509 +1305,7 @@ Otra posible ampliación sería tomar más datos simultáneamente, por ejemplo a
 
 \newpage
 \begin{appendices}
-\chapter{Código}
-
-\section{Python}
-
-En este capítulo se exponen las partes más importantes del código de Python. 
-\begin{verbatim}
-from __future__ import absolute_import, division, print_function
-
-# %% Importing all libraries
-import math
-
-#Importing the tensorflow package
-import tensorflow as tf
-from tensorflow import keras
-
-
-#Helping libraries
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from sklearn.metrics import classification_report, confusion_matrix
-from sklearn.preprocessing import normalize
-import random
-
-
-
-# %% Get the data
-#ReadingData
-class_names=['Reposo', 'Andando', 'Corriendo', 'Caida']
-
-def reading_data(path):
-    """ 
-    Funtion that reads the data from a file path
-    
-    Args:
-        path: The path of the document we want to read
-    Returns:
-        data: a list with 4 elements, X, Y, Z and R, the label of the movement
-    """
-    data = []
-    with open(path, "r+") as csvdatafile:
-        reader = csv.reader(csvdatafile, 'excel')
-        for row in reader:
-            data.append((float(row[0]),float(row[1]),float(row[2]),int(row[3])))
-    return data
-
-def random_split(list_to_separate):
-    crec=0
-    decrec=250
-    training, test = [], []
-    for row in list_to_separate:
-        if(crec==0):
-            if(random.random()>0.999):
-                crec = 1
-                training.append(row)
-            else:
-                training.append(row)
-        else:
-            if(decrec>0):
-                test.append(row)
-                decrec = decrec - 1
-            else:
-                decrec = 250
-                crec = 0
-    return training, test
-	
-def tipifylist(list_to_tipify):
-	"""
-	Function that tipifies the list, every value minus 
-	the mean get divided by the standard deviation
-	
-	Args:
-		list_to_tipify: The list we intend to tipify
-		
-	Return:
-		list_to_tipify: The list already tipified
-	
-	"""
-
-	number_of_data = len(list_to_tipify)
-	media, desv = [], []
-	
-	x_media = 0
-	y_media = 0
-	z_media = 0
-	for row in list_to_tipify:
-		x_media = x_media + row[0]
-		y_media = y_media + row[1]
-		z_media = z_media + row[2]
-		
-	media = [x_media/number_of_data, y_media/number_of_data, z_media/number_of_data]
-	print(media)
-	x_desv = 0
-	y_desv = 0
-	z_desv = 0
-	for row in list_to_tipify:
-		x_desv = (row[0]-media[0])*(row[0]-media[0]) + x_desv
-		y_desv = (row[1]-media[1])*(row[1]-media[1]) + y_desv
-		z_desv = (row[2]-media[2])*(row[2]-media[2]) + z_desv
-		
-	desv = [math.sqrt(x_desv/(number_of_data-1)),
-	math.sqrt(y_desv/(number_of_data-1)), 
-	math.sqrt(z_desv/(number_of_data-1))]
-	print(desv)
-
-	for row in list_to_tipify:
-		row = [(row[0]-media[0])/desv[0], 
-				(row[1]-media[1])/desv[1], 
-				(row[2]-media[2])/desv[2]]
-		
-	return list_to_tipify
-		
-
-#Preparing the data to be separated into testing and training datasets
-alltraining=[]
-alltesting=[]
-alldata= []
-
-alldata = reading_data('completo+respuesta.csv')
-
-alldata = tipifylist(alldata)
-
-alltraining, alltesting = random_split(alldata)
-
-
-# %% Preprocessing the data
-
-training_var, training_res, testing_var, testing_res = [],[],[],[]
-alldata_res, alldata_var = [], []
-
-#Separating the data into the accelerometer vector and the result
-for row in alltraining:
-	training_var.append((float(row[0]),float(row[1]),float(row[2])))
-	training_res.append(int(row[3]))
-
-training_res=keras.utils.to_categorical(np.array(training_res))
-training_var=np.array(training_var)
-#training_var=normalize(training_var, axis=0, norm='max')
-	
-for row in alltesting:
-	testing_var.append((float(row[0]),float(row[1]),float(row[2])))
-	testing_res.append(int(row[3]))
-
-testing_res=keras.utils.to_categorical(np.array(testing_res))
-testing_var=np.array(testing_var)
-#testing_var=normalize(testing_var, axis=0, norm='max')
-
-
-# %% Definition of NN
-
-#Definition of the NN
-model = keras.Sequential([
-		keras.layers.Dense(1, input_dim=3),
-		keras.layers.Dense(25 , activation=tf.nn.relu),
-		keras.layers.Dense(100 , activation=tf.nn.sigmoid),
-		keras.layers.Dense(4, activation=tf.nn.softmax)
-		])
-
-# %% Compilation of the NN and final results
-
-#Compilation of NN
-model.compile(optimizer='adam', loss='categorical_crossentropy',
-			 metrics=['accuracy'])
-#class_weight=weights,
-weights = [1.0, 1.0, 1.0, 1.3]
-epoch=40
-hist=model.fit(testing_var, testing_res,
-				epochs=epoch, batch_size=8, 
-				validation_data=(training_var, 
-				training_res), shuffle=True)
-
-model.save('redsaved.h5')
-converter = tf.lite.TFLiteConverter.from_keras_model(model)
-tflite_model = converter.convert()
-open("redsaved.tflite", "wb").write(tflite_model)
-
-\end{verbatim}
-
-\section{Código Android}
-
-A continuación se va a mostrar las partes más interesantes del código de android, la función que recibe el mensaje y manda al interpreter, y la conexión con el reloj, además de un par de funciones para el tratamiento de los datos.
-\begin{verbatim}
-
-public class MainActivity extends AppCompatActivity implements
-        View.OnClickListener {
-
-....
-
-    //setup a broadcast receiver to receive the messages from the wear device
-     via the listenerService. Then send them to the neural network to be 
-     interpreted.
-    public class MessageReceiver extends BroadcastReceiver {
-        float[][] break_data = { { 1, 2, 3 } };
-        float[][] output = { {-1, -1, -1 , -1} };
-        int i = 0;
-        int[] results = {-1, -1, -1 , -1, -1, -1, -1 , -1, -1};
-        float[] resultado = {0,0,0,0};
-        float[] resultado2 = {0,0,0};
-        float[] resultado3 = {0,0};
-        float[] resultado4 = {0};
-        int index = 0;
-        int instantResult = 0;
-        @Override
-        public void onReceive(Context context, final Intent intent) {
-          String message = intent.getStringExtra("message");
-          Log.v(TAG, "Main activity received message: " + message);
-          // Display message in UI
-          logthis(message);
-          /*
-          * New thread to write the data from the clock into a txt. Then 
-          this txt will be used to
-          * train a Neural Network to detect the type of movement.
-          *Important: add the true into the filewriter to allow appending
-           the data instead of overwritting
-          * Also note the "/n" to get a newline.
-          * */
-            if(isOn){
-              Thread writerThread = new Thread() {
-                @Override
-                public void run() {
-                  try {
-                    String message = intent.getStringExtra("message");
-                    break_data[0][0] = Float.parseFloat(message.split(",")[0]);
-                    break_data[0][1] = Float.parseFloat(message.split(",")[1]);
-                    break_data[0][2] = Float.parseFloat(message.split(",")[2]);
-                    try {
-                       Interpreter interpreter = new
-                       Interpreter(loadModelFile(getAssets(),
-                             "RedNeuronal.tflite").asReadOnlyBuffer());
-                       interpreter.run(break_data, output);
-                       if (i < 8) {
-                         resultado[0] = resultado[0] + output[0][3];
-                         resultado[1] = resultado[1] + output[0][2];
-                         resultado[2] = resultado[2] + output[0][1];
-                         resultado[3] = resultado[3] + output[0][0];
-                         if(Math.abs(break_data[0][0]) > 65 ||
-                           Math.abs(break_data[0][1]) > 65 ||
-                           Math.abs(break_data[0][2]) > 65) {
-                           resultado[3] = resultado[3] + 2;
-                         }
-                           float maxValue = getMax(resultado);
-                           for(int x = 0; x<4; x++){
-                             if(maxValue == resultado[x]) {
-                               instantResult = x;
-                             }
-                           }
-                           i++;
-                         } else {
-                            i = 0;
-                            HashMap<Float, Integer> hmapResults = new HashMap<>();
-                            for (int x = 0; x<4; x++){
-                               hmapResults.put(resultado[x], x);
-                            }
-                            Map<Float, Integer> map = new TreeMap<>(hmapResults);
-                            float maxValue = getMax(resultado);
-                            resultado2 = arraySectioning(resultado, maxValue);
-                            float maxValue2 = getMax(resultado2);
-                            resultado3 = arraySectioning(resultado2, maxValue2);
-                            float maxValue3 = getMax(resultado3);
-                            resultado4 = arraySectioning(resultado3, maxValue3);
-                            float maxValue4 = getMax(resultado4);
-                            if (map.get(maxValue) == 1 && map.get(maxValue2) == 2 && (maxValue-maxValue2) < 1) {
-                               redLogger.setText("RED NEURONAL: CORRIENDO");
-                               index = 2;
-                            } else if(map.get(maxValue) == 0) {
-                                redLogger.setText("RED NEURONAL: REPOSO");
-                                index = 0;
-                            }else if (map.get(maxValue) == 1) {
-                                redLogger.setText("RED NEURONAL: ANDANDO");
-                                index = 1;
-                            } else if (map.get(maxValue) == 2){
-                                redLogger.setText("RED NEURONAL: CORRIENDO");
-                                index = 2;
-                            } else if (map.get(maxValue) == 3) {
-                                index = 3;
-                                redLogger.setText("RED NEURONAL: CAYENDO");
-                            }
-                            resultado[0] = 0;
-                            resultado[1] = 0;
-                            resultado[2] = 0;
-                            resultado[3] = 0;
-                         }
-                      } catch (Exception e) {
-                          Log.e("OPERATOR", "Interpreter Failed");
-                      }
-                   BufferedWriter out = new BufferedWriter(new FileWriter(file, 
-                   											true));
-                   out.append(message +',' + instantResult + ',' 
-                   				+ index + " \n");
-                   out.flush();
-                   out.close();
-                } catch (Exception e) {
-                   Log.e("Exception", "File write failed: " + e.toString());
-                }
-             }
-          };
-          writerThread.start();
-       }
-     }
-   }
-   // Method that sections an array given a value contained in it.
-    public static float[] arraySectioning(float[] arrayToSec, float arg) {
-        float[] newArr = new float[arrayToSec.length-1];
-        for(int i = 0; i < arrayToSec.length; i++){
-            if(arrayToSec[i] == arg){
-                for(int index = 0; index < i; index++){
-                    newArr[index] = arrayToSec[index];
-                }
-                for(int j = i; j < arrayToSec.length - 1; j++){
-                    newArr[j] = arrayToSec[j+1];
-                }
-                break;
-            }
-        }
-        return newArr;
-    }
-    // Method that gives back the max value of an array
-    public static float getMax(float[] inputArray){
-        float maxValue = inputArray[0];
-        for(int i=1;i < inputArray.length;i++){
-            if(inputArray[i] > maxValue){
-                maxValue = inputArray[i];
-            }
-        }
-        return maxValue;
-    }
-	// Method that prepares the neural network to be interpreted
-    private static MappedByteBuffer loadModelFile(AssetManager assets, 
-    											String modelFilename)
-            throws IOException {
-        AssetFileDescriptor fileDescriptor = assets.openFd(modelFilename);
-        FileInputStream inputStream = 
-        				new FileInputStream(fileDescriptor.getFileDescriptor());
-        FileChannel fileChannel = inputStream.getChannel();
-        long startOffset = fileDescriptor.getStartOffset();
-        long declaredLength = fileDescriptor.getDeclaredLength();
-        return fileChannel.map(FileChannel.MapMode.READ_ONLY,
-        						 startOffset, declaredLength);
-    }
-
-
-        //sends the message via the thread.  this will send to 
-        //all wearables connected, but
-        //since there is (should only?) 
-        //be one, no problem.
-   public void run() {
-
-     //first get all the nodes, ie connected wearable devices.
-     Task<List<Node>> nodeListTask =
-     Wearable.getNodeClient(getApplicationContext()).getConnectedNodes();
-     try {
-       // Block on a task and get the result synchronously (because this is on a 	
-       // background thread).
-       List<Node> nodes = Tasks.await(nodeListTask);
-       //Now send the message to each device.
-       for (Node node : nodes) {
-          Task<Integer> sendMessageTask =
-          Wearable.getMessageClient(MainActivity.this).sendMessage(node.getId(),
-          												 path, message.getBytes());
-          try {
-            // Block on a task and get the result
-            // synchronously (because this is on a background
-            // thread).
-            Integer result = Tasks.await(sendMessageTask);
-            sendmessage("SendThread: message send to " + node.getDisplayName());
-            Log.v(TAG, "SendThread: message send to " + node.getDisplayName());
-          } catch (ExecutionException exception) {
-              sendmessage("SendThread: message failed to" + node.getDisplayName());
-              Log.e(TAG, "Send Task failed: " + exception);
-       } catch (InterruptedException exception) {
-          Log.e(TAG, "Send Interrupt occurred: " + exception);
-       }
-    }
-  } catch (ExecutionException exception) {
-     sendmessage("Node Task failed: " + exception);
-     Log.e(TAG, "Node Task failed: " + exception);
-} catch (InterruptedException exception) {
-    Log.e(TAG, "Node Interrupt occurred: " + exception);
-}
-
-
-\end{verbatim}
-
-\newpage
-A continuación se mostrará el código del servicio que recibe y manda los mensajes, que es igual en el reloj y en el móvil.
-
-\begin{verbatim}
-/*
- *  This is a listener on the  device to get messages via
- *  the datalayer and then pass it to the main activity so it can be
- *  displayed.  the messages should be coming from the wear/watch device.
- */
-
-public class ListenerService extends WearableListenerService {
-    String TAG = "mobile Listener";
-    @Override
-    public void onMessageReceived(MessageEvent messageEvent) {
-
-        if (messageEvent.getPath().equals("/message_path")) {
-            final String message = new String(messageEvent.getData());
-            Log.v(TAG, "Message path received on phone is: " + messageEvent.getPath());
-            Log.v(TAG, "Message received on phone is: " + message);
-
-            // Broadcast message to MainActivity for display
-            Intent messageIntent = new Intent();
-            messageIntent.setAction(Intent.ACTION_SEND);
-            messageIntent.putExtra("message", message);
-            LocalBroadcastManager.getInstance(this).sendBroadcast(messageIntent);
-        }
-        else {
-            super.onMessageReceived(messageEvent);
-        }
-    }
-
-}
-
-\end{verbatim}
-
-
-\section{Código Android Wear}
-
-A continación se muestra el código de la actividad principal de Android Wear. Lo más importante de esta parte es la forma de recoger los datos del acelerómetro.
-\begin{verbatim}
-public class MainActivity extends WearableActivity implements SensorEventListener {
-
-    private static SimpleDateFormat dateFormat = new SimpleDateFormat("HH:mm:ss.SSS");
-    private SensorManager mSensorManager;
-    private Sensor mAcceSensor;
-    private final static String TAG = "Wear MainActivity";
-    private TextView mTextView;
-    private Button myButton;
-    private ToggleButton activateSensors;
-    private int num = 1;
-    public boolean isOn;
-    private String datapath = "/message_path";
-    private Date startDate = new Date();
-    private Date nowDate;
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.main_activity);
-        mTextView =  findViewById(R.id.text);
-
-        //send a message from the wear.  This one will not have response.
-        myButton =  findViewById(R.id.wrbutton);
-        activateSensors = findViewById(R.id.toggleButton);
-        activateSensors.setOnCheckedChangeListener(
-        			new CompoundButton.OnCheckedChangeListener() {
-            @Override
-            public void onCheckedChanged(CompoundButton compoundButton, 
-            boolean isChecked) {
-                if(isChecked) isOn = true;
-                else isOn = false;
-            }
-        });
-
-        myButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                String message = "Hello device " + num;
-                //Requires a new thread to avoid blocking the UI
-                new SendThread(datapath, message).start();
-
-                  num++;
-            }
-        });
-
-        // Register the local broadcast receiver to receive 
-        // messages from the listener.
-        IntentFilter messageFilter = new IntentFilter(Intent.ACTION_SEND);
-        MessageReceiver messageReceiver = new MessageReceiver();
-        LocalBroadcastManager.getInstance(this).registerReceiver(messageReceiver,
-         messageFilter);
-
-        mSensorManager = (SensorManager)getSystemService
-        				(Context.SENSOR_SERVICE);
-        mAcceSensor = mSensorManager.getDefaultSensor
-        				(Sensor.TYPE_ACCELEROMETER);
-
-        // Enables Always-on
-        setAmbientEnabled();
-    }
-
-	//Checks if there are changes in the accelerometer and sends
-	//a message with the data if there is changes.
-    @Override
-    public void onSensorChanged(SensorEvent sensorEvent) {
-        nowDate = new Date();
-        if(sensorEvent.sensor.getType() == Sensor.TYPE_ACCELEROMETER){
-            String msg = Float.toString(sensorEvent.values[0]) +","+
-             Float.toString(sensorEvent.values[1]) +","+
-             Float.toString(sensorEvent.values[2]);
-            if (isOn && (nowDate.getTime() -startDate.getTime()) >= 40){
-                    startDate = nowDate;
-                    String timeStamp = dateFormat.format(nowDate);
-                    msg = msg +","+timeStamp;
-                    new SendThread(datapath, msg).start();
-            }
-        }
-    }
-
-\end{verbatim}
-
+Todo el código y material utilizado para la realización de este proyecto puede encontrarse en: \emph{https://github.com/Mega259/TrabajoFinGrado}
 \end{appendices}
 
 \end{document}

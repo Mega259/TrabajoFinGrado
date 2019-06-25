@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.22)  25 JUN 2019 19:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.22)  26 JUN 2019 01:52
 entering extended mode
 **./Newtfg6.tex
 (Newtfg6.tex
@@ -1451,78 +1451,83 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[56 <./Interfaces.jpg>] [57] [58]
-<reposodatos.png, id=262, 520.19344pt x 344.78813pt>
+[56 <./Interfaces.jpg>] [57]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<reposodatos.png, id=259, 520.19344pt x 344.78813pt>
 File: reposodatos.png Graphic file (type png)
 <use reposodatos.png>
 Package pdftex.def Info: reposodatos.png  used on input line 1050.
 (pdftex.def)             Requested size: 256.0774pt x 169.72629pt.
 
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[59] [60 <./reposodatos.png>]
-<andandodatos.png, id=270, 517.935pt x 349.305pt>
+[58] [59]
+<andandodatos.png, id=266, 517.935pt x 349.305pt>
 File: andandodatos.png Graphic file (type png)
 <use andandodatos.png>
 Package pdftex.def Info: andandodatos.png  used on input line 1087.
 (pdftex.def)             Requested size: 256.0774pt x 172.71196pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[61]
-<corriendodatos.png, id=274, 514.92375pt x 347.79938pt>
+ [60 <./reposodatos.png>] [61 <./andandodatos.png>]
+<corriendodatos.png, id=275, 514.92375pt x 347.79938pt>
 File: corriendodatos.png Graphic file (type png)
 <use corriendodatos.png>
 Package pdftex.def Info: corriendodatos.png  used on input line 1122.
 (pdftex.def)             Requested size: 213.39566pt x 144.13239pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[62 <./andandodatos.png>] [63 <./corriendodatos.png>]
-<cayendodatos.png, id=284, 503.63156pt x 340.27126pt>
+ [62 <./corriendodatos.png>]
+<cayendodatos.png, id=280, 503.63156pt x 340.27126pt>
 File: cayendodatos.png Graphic file (type png)
 <use cayendodatos.png>
 Package pdftex.def Info: cayendodatos.png  used on input line 1158.
 (pdftex.def)             Requested size: 256.0774pt x 173.01163pt.
- [64 <./cayendodatos.png>]
-<esquemacodigo.png, id=289, 374.14781pt x 235.63031pt>
-File: esquemacodigo.png Graphic file (type png)
-<use esquemacodigo.png>
-Package pdftex.def Info: esquemacodigo.png  used on input line 1183.
-(pdftex.def)             Requested size: 426.79134pt x 268.79752pt.
-[65] [66 <./esquemacodigo.png>] [67] [68
 
-]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[63]
+Underfull \vbox (badness 3229) has occurred while \output is active []
+
+ [64 <./cayendodatos.png>] [65] [66]
 Cap\'{\i }tulo 6.
-<PossibleBF_2.png, id=302, 505.89pt x 361.35pt>
+<PossibleBF_2.png, id=295, 505.89pt x 361.35pt>
 File: PossibleBF_2.png Graphic file (type png)
 <use PossibleBF_2.png>
-Package pdftex.def Info: PossibleBF_2.png  used on input line 1204.
+Package pdftex.def Info: PossibleBF_2.png  used on input line 1198.
 (pdftex.def)             Requested size: 341.43436pt x 243.88419pt.
-[69 <./PossibleBF_2.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+[67
+
+] [68 <./PossibleBF_2.png>]
+Overfull \hbox (11.41112pt too wide) in paragraph at lines 1213--1230
+ [][] 
+ []
+
+
+Overfull \hbox (11.41112pt too wide) in paragraph at lines 1238--1255
+ [][] 
+ []
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<finalesAndroid.png, id=308, 925.056pt x 450.2421pt>
+[69]
+<finalesAndroid.png, id=307, 925.056pt x 450.2421pt>
 File: finalesAndroid.png Graphic file (type png)
 <use finalesAndroid.png>
-Package pdftex.def Info: finalesAndroid.png  used on input line 1270.
+Package pdftex.def Info: finalesAndroid.png  used on input line 1265.
 (pdftex.def)             Requested size: 341.43436pt x 166.18163pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [70]
-[71 <./finalesAndroid.png>] [72]
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[70] [71 <./finalesAndroid.png>] [72
+
+]
 Cap\'{\i }tulo 7.
-[73
-
-] [74] (Newtfg6.bbl [75] [76
+[73] [74] (Newtfg6.bbl [75] [76
 
 ] [77] [78] [79]
 Overfull \hbox (0.88553pt too wide) in paragraph at lines 133--135
@@ -1533,344 +1538,7 @@ ce / philip d. wasserman,''
 ) [80] [81
 
 
-] [82]
-Ap\'{e}ndice A.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmtt' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-[83
-
-]
-Overfull \hbox (54.8589pt too wide) in paragraph at lines 1488--1488
-[]        \OT1/cmtt/m/n/12 data: a list with 4 elements, X, Y, Z and R, the lab
-el of the movement[] 
- []
-
-
-Overfull \hbox (65.9739pt too wide) in paragraph at lines 1488--1488
-[]            \OT1/cmtt/m/n/12 data.append((float(row[0]),float(row[1]),float(r
-ow[2]),int(row[3])))[] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [84]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [85]
-Overfull \hbox (67.20891pt too wide) in paragraph at lines 1488--1488
-[]\OT1/cmtt/m/n/12 media = [x_media/number_of_data, y_media/number_of_data, z_m
-edia/number_of_data][] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [86]
-Overfull \hbox (5.45888pt too wide) in paragraph at lines 1488--1488
-[]\OT1/cmtt/m/n/12 #Preparing the data to be separated into testing and trainin
-g datasets[] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [87]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [88]
-Underfull \vbox (badness 2005) has occurred while \output is active []
-
- [89]
-Overfull \hbox (48.6839pt too wide) in paragraph at lines 1693--1693
-[]    \OT1/cmtt/m/n/12 //setup a broadcast receiver to receive the messages fro
-m the wear device[] 
- []
-
-
-Overfull \hbox (17.80888pt too wide) in paragraph at lines 1693--1693
-[]     \OT1/cmtt/m/n/12 via the listenerService. Then send them to the neural n
-etwork to be[] 
- []
-
-
-Overfull \hbox (17.80888pt too wide) in paragraph at lines 1693--1693
-[]          \OT1/cmtt/m/n/12 * New thread to write the data from the clock into
- a txt. Then[] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [90]
-Overfull \hbox (23.98389pt too wide) in paragraph at lines 1693--1693
-[]          \OT1/cmtt/m/n/12 *Important: add the true into the filewriter to al
-low appending[] 
- []
-
-
-Overfull \hbox (3.60637pt too wide) in paragraph at lines 1693--1693
-[]                    \OT1/cmtt/m/n/12 String message = intent.getStringExtra("
-message");[] 
- []
-
-
-Overfull \hbox (59.1814pt too wide) in paragraph at lines 1693--1693
-[]                    \OT1/cmtt/m/n/12 break_data[0][0] = Float.parseFloat(mess
-age.split(",")[0]);[] 
- []
-
-
-Overfull \hbox (59.1814pt too wide) in paragraph at lines 1693--1693
-[]                    \OT1/cmtt/m/n/12 break_data[0][1] = Float.parseFloat(mess
-age.split(",")[1]);[] 
- []
-
-
-Overfull \hbox (59.1814pt too wide) in paragraph at lines 1693--1693
-[]                    \OT1/cmtt/m/n/12 break_data[0][2] = Float.parseFloat(mess
-age.split(",")[2]);[] 
- []
-
-
-Overfull \hbox (9.78137pt too wide) in paragraph at lines 1693--1693
-[]                             \OT1/cmtt/m/n/12 "RedNeuronal.tflite").asReadOnl
-yBuffer());[] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [91]
-Overfull \hbox (77.7064pt too wide) in paragraph at lines 1693--1693
-[]                            \OT1/cmtt/m/n/12 HashMap<Float, Integer> hmapResu
-lts = new HashMap<>();[] 
- []
-
-
-Overfull \hbox (71.5314pt too wide) in paragraph at lines 1693--1693
-[]                            \OT1/cmtt/m/n/12 Map<Float, Integer> map = new Tr
-eeMap<>(hmapResults);[] 
- []
-
-
-Overfull \hbox (53.0064pt too wide) in paragraph at lines 1693--1693
-[]                            \OT1/cmtt/m/n/12 resultado2 = arraySectioning(res
-ultado, maxValue);[] 
- []
-
-
-Overfull \hbox (65.3564pt too wide) in paragraph at lines 1693--1693
-[]                            \OT1/cmtt/m/n/12 resultado3 = arraySectioning(res
-ultado2, maxValue2);[] 
- []
-
-
-Overfull \hbox (65.3564pt too wide) in paragraph at lines 1693--1693
-[]                            \OT1/cmtt/m/n/12 resultado4 = arraySectioning(res
-ultado3, maxValue3);[] 
- []
-
-
-Overfull \hbox (263.574pt too wide) in paragraph at lines 1693--1693
-[]                            \OT1/cmtt/m/n/12 if (map.get(maxValue) == 1 && ma
-p.get(maxValue2) == 2 && (maxValue-maxValue2) < 1) {[] 
- []
-
-
-Overfull \hbox (40.65639pt too wide) in paragraph at lines 1693--1693
-[]                               \OT1/cmtt/m/n/12 redLogger.setText("RED NEURON
-AL: CORRIENDO");[] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [92]
-Overfull \hbox (28.30638pt too wide) in paragraph at lines 1693--1693
-[]                                \OT1/cmtt/m/n/12 redLogger.setText("RED NEURO
-NAL: REPOSO");[] 
- []
-
-
-Overfull \hbox (34.48138pt too wide) in paragraph at lines 1693--1693
-[]                                \OT1/cmtt/m/n/12 redLogger.setText("RED NEURO
-NAL: ANDANDO");[] 
- []
-
-
-Overfull \hbox (46.83139pt too wide) in paragraph at lines 1693--1693
-[]                                \OT1/cmtt/m/n/12 redLogger.setText("RED NEURO
-NAL: CORRIENDO");[] 
- []
-
-
-Overfull \hbox (34.48138pt too wide) in paragraph at lines 1693--1693
-[]                                \OT1/cmtt/m/n/12 redLogger.setText("RED NEURO
-NAL: CAYENDO");[] 
- []
-
-
-Overfull \hbox (57.9464pt too wide) in paragraph at lines 1693--1693
-[]                   \OT1/cmtt/m/n/12 BufferedWriter out = new BufferedWriter(n
-ew FileWriter(file,[] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [93]
-Overfull \hbox (40.65639pt too wide) in paragraph at lines 1693--1693
-[]                   \OT1/cmtt/m/n/12 Log.e("Exception", "File write failed: " 
-+ e.toString());[] 
- []
-
-
-Overfull \hbox (28.92389pt too wide) in paragraph at lines 1693--1693
-[]    \OT1/cmtt/m/n/12 public static float[] arraySectioning(float[] arrayToSec
-, float arg) {[] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [94]
-Overfull \hbox (2.37137pt too wide) in paragraph at lines 1693--1693
-[]    \OT1/cmtt/m/n/12 private static MappedByteBuffer loadModelFile(AssetManag
-er assets,[] 
- []
-
-
-Overfull \hbox (28.30638pt too wide) in paragraph at lines 1693--1693
-[]        \OT1/cmtt/m/n/12 AssetFileDescriptor fileDescriptor = assets.openFd(m
-odelFilename);[] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [95]
-Overfull \hbox (22.13138pt too wide) in paragraph at lines 1693--1693
-[]     \OT1/cmtt/m/n/12 Wearable.getNodeClient(getApplicationContext()).getConn
-ectedNodes();[] 
- []
-
-
-Overfull \hbox (79.55891pt too wide) in paragraph at lines 1693--1693
-[]       \OT1/cmtt/m/n/12 // Block on a task and get the result synchronously (
-because this is on a  [] 
- []
-
-
-Overfull \hbox (64.1214pt too wide) in paragraph at lines 1693--1693
-[]          \OT1/cmtt/m/n/12 Wearable.getMessageClient(MainActivity.this).sendM
-essage(node.getId(),[] 
- []
-
-
-Overfull \hbox (65.3564pt too wide) in paragraph at lines 1693--1693
-[]            \OT1/cmtt/m/n/12 sendmessage("SendThread: message send to " + nod
-e.getDisplayName());[] 
- []
-
-
-Overfull \hbox (59.1814pt too wide) in paragraph at lines 1693--1693
-[]            \OT1/cmtt/m/n/12 Log.v(TAG, "SendThread: message send to " + node
-.getDisplayName());[] 
- []
-
-
-Overfull \hbox (83.88141pt too wide) in paragraph at lines 1693--1693
-[]              \OT1/cmtt/m/n/12 sendmessage("SendThread: message failed to" + 
-node.getDisplayName());[] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [96]
-[97]
-Overfull \hbox (19.66138pt too wide) in paragraph at lines 1728--1728
-[] \OT1/cmtt/m/n/12 *  displayed.  the messages should be coming from the wear/
-watch device.[] 
- []
-
-
-Overfull \hbox (3.60637pt too wide) in paragraph at lines 1728--1728
-[]            \OT1/cmtt/m/n/12 final String message = new String(messageEvent.g
-etData());[] 
- []
-
-
-Overfull \hbox (108.58142pt too wide) in paragraph at lines 1728--1728
-[]            \OT1/cmtt/m/n/12 Log.v(TAG, "Message path received on phone is: "
- + messageEvent.getPath());[] 
- []
-
-
-Overfull \hbox (71.5314pt too wide) in paragraph at lines 1728--1728
-[]            \OT1/cmtt/m/n/12 LocalBroadcastManager.getInstance(this).sendBroa
-dcast(messageIntent);[] 
- []
-
-[98]
-Overfull \hbox (84.49892pt too wide) in paragraph at lines 1813--1813
-[]\OT1/cmtt/m/n/12 public class MainActivity extends WearableActivity implement
-s SensorEventListener {[] 
- []
-
-
-Overfull \hbox (102.40642pt too wide) in paragraph at lines 1813--1813
-[]    \OT1/cmtt/m/n/12 private static SimpleDateFormat dateFormat = new SimpleD
-ateFormat("HH:mm:ss.SSS");[] 
- []
-
-[99]
-Overfull \hbox (19.66138pt too wide) in paragraph at lines 1813--1813
-[]        \OT1/cmtt/m/n/12 //send a message from the wear.  This one will not h
-ave response.[] 
- []
-
-
-Overfull \hbox (8.54637pt too wide) in paragraph at lines 1813--1813
-[]            \OT1/cmtt/m/n/12 public void onCheckedChanged(CompoundButton comp
-oundButton,[] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [100]
-Overfull \hbox (28.30638pt too wide) in paragraph at lines 1813--1813
-[]        \OT1/cmtt/m/n/12 IntentFilter messageFilter = new IntentFilter(Intent
-.ACTION_SEND);[] 
- []
-
-
-Overfull \hbox (70.2964pt too wide) in paragraph at lines 1813--1813
-[]        \OT1/cmtt/m/n/12 LocalBroadcastManager.getInstance(this).registerRece
-iver(messageReceiver,[] 
- []
-
-
-Overfull \hbox (4.22388pt too wide) in paragraph at lines 1813--1813
-[]        \OT1/cmtt/m/n/12 if(sensorEvent.sensor.getType() == Sensor.TYPE_ACCEL
-EROMETER){[] 
- []
-
-
-Overfull \hbox (16.57388pt too wide) in paragraph at lines 1813--1813
-[]            \OT1/cmtt/m/n/12 if (isOn && (nowDate.getTime() -startDate.getTim
-e()) >= 40){[] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [101]
-[102] (Newtfg6.aux
+] [82] [83] (Newtfg6.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 )
@@ -1879,11 +1547,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 25874 strings out of 492945
- 466553 string characters out of 3135516
- 774976 words of memory out of 3000000
- 29074 multiletter control sequences out of 15000+200000
- 19840 words of font info for 133 fonts, out of 3000000 for 9000
+ 25859 strings out of 492945
+ 466305 string characters out of 3135516
+ 772930 words of memory out of 3000000
+ 29064 multiletter control sequences out of 15000+200000
+ 19562 words of font info for 131 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,18n,76p,3235b,454s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\kiko\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\t
@@ -1898,11 +1566,10 @@ msfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Newtfg6.pdf (106 pages, 2471187 bytes).
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Newtfg6.pdf (87 pages, 2433883 bytes).
 PDF statistics:
- 466 PDF objects out of 1000 (max. 8388607)
+ 401 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 14499 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 13982 words of extra memory for PDF output out of 14400 (max. 10000000)
 

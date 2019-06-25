@@ -53,18 +53,14 @@
 \contentsline {section}{\numberline {4.4}Red Neuronal}{51}% 
 \contentsline {chapter}{\numberline {5}Metodolog\IeC {\'\i }a}{55}% 
 \contentsline {section}{\numberline {5.1}Toma de datos}{55}% 
-\contentsline {section}{\numberline {5.2}An\IeC {\'a}lisis de los datos}{58}% 
-\contentsline {subsection}{\numberline {5.2.1}Reposo}{59}% 
-\contentsline {subsection}{\numberline {5.2.2}Andando}{61}% 
+\contentsline {section}{\numberline {5.2}An\IeC {\'a}lisis de los datos}{57}% 
+\contentsline {subsection}{\numberline {5.2.1}Reposo}{58}% 
+\contentsline {subsection}{\numberline {5.2.2}Andando}{60}% 
 \contentsline {subsection}{\numberline {5.2.3}Corriendo}{62}% 
 \contentsline {subsection}{\numberline {5.2.4}Cayendo}{63}% 
-\contentsline {subsection}{\numberline {5.2.5}Comentarios de los datos}{64}% 
+\contentsline {subsection}{\numberline {5.2.5}Comentarios de los datos}{63}% 
 \contentsline {section}{\numberline {5.3}Programaci\IeC {\'o}n}{65}% 
-\contentsline {chapter}{\numberline {6}Resultados}{69}% 
+\contentsline {chapter}{\numberline {6}Resultados}{67}% 
 \contentsline {chapter}{\numberline {7}Conclusiones}{73}% 
 \contentsline {chapter}{Bibliograf\IeC {\'\i }a}{75}% 
 \contentsline {chapter}{Ap\'endices}{81}% 
-\contentsline {chapter}{\numberline {A}C\IeC {\'o}digo}{83}% 
-\contentsline {section}{\numberline {A.1}Python}{83}% 
-\contentsline {section}{\numberline {A.2}C\IeC {\'o}digo Android}{89}% 
-\contentsline {section}{\numberline {A.3}C\IeC {\'o}digo Android Wear}{99}% 
