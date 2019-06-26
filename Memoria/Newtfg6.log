@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.22)  26 JUN 2019 01:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.22)  26 JUN 2019 10:09
 entering extended mode
 **./Newtfg6.tex
 (Newtfg6.tex
@@ -1501,15 +1501,6 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [67
 
 ] [68 <./PossibleBF_2.png>]
-Overfull \hbox (11.41112pt too wide) in paragraph at lines 1213--1230
- [][] 
- []
-
-
-Overfull \hbox (11.41112pt too wide) in paragraph at lines 1238--1255
- [][] 
- []
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1517,19 +1508,27 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <finalesAndroid.png, id=307, 925.056pt x 450.2421pt>
 File: finalesAndroid.png Graphic file (type png)
 <use finalesAndroid.png>
-Package pdftex.def Info: finalesAndroid.png  used on input line 1265.
+Package pdftex.def Info: finalesAndroid.png  used on input line 1269.
 (pdftex.def)             Requested size: 341.43436pt x 166.18163pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[70] [71 <./finalesAndroid.png>] [72
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [70]
+[71 <./finalesAndroid.png>] [72
 
 ]
 Cap\'{\i }tulo 7.
-[73] [74] (Newtfg6.bbl [75] [76
 
-] [77] [78] [79]
+Underfull \vbox (badness 1810) has occurred while \output is active []
+
+ [73]
+[74] [75] (Newtfg6.bbl [76] [77
+
+] [78] [79]
 Overfull \hbox (0.88553pt too wide) in paragraph at lines 133--135
 []\OT1/cmr/m/n/12 (-20) P. D. Wasserman, ``Neural computing : theory and practi
 ce / philip d. wasserman,''
@@ -1547,11 +1546,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 25859 strings out of 492945
- 466305 string characters out of 3135516
- 772930 words of memory out of 3000000
- 29064 multiletter control sequences out of 15000+200000
- 19562 words of font info for 131 fonts, out of 3000000 for 9000
+ 25876 strings out of 492945
+ 466601 string characters out of 3135516
+ 772931 words of memory out of 3000000
+ 29077 multiletter control sequences out of 15000+200000
+ 21212 words of font info for 139 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,18n,76p,3235b,454s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\kiko\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\t
@@ -1567,9 +1566,9 @@ msfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Newtfg6.pdf (87 pages, 2433883 bytes).
+Output written on Newtfg6.pdf (87 pages, 2439813 bytes).
 PDF statistics:
  401 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13982 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 16030 words of extra memory for PDF output out of 17280 (max. 10000000)
 

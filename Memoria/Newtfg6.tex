@@ -1205,14 +1205,15 @@ Se puede observar que la precisión de validación es menor que la precisión de
 
 Para un estudio más en profundidad de los datos existe lo que se denomina comúnmente una matriz de confusión, que es una forma gráfica de ver los resultados de la red y donde se encuentran los errores.
 
-La tabla \ref{confusionTraining} muestran la matriz de confusión de los datos de entrenamiento. Las columnas muestra los datos de la clase y la clasificación que ha hecho la red neuronal. Por tanto, la primera columna, los datos en reposo, de los 4632 datos que había, la red neuronal ha clasificado 4101 como reposo, 10 como andando, 9 como corriendo y 512 como cayendo. Esto hace una precisión del 89\%, como se muestra en la última fila. Por otro lado, las filas de datos muestran todos los datos clasificados como cada clase. Por ejemplo, la segunda fila, de andando, muestra que la red ha clasificado correctamente 3490 datos y erroneamente en forma de falsos positivos los 321 restantes, y el porcentaje de datos correctos entre la suma de los correctos y los falsos positivos se muestra en la última columna.
+La tabla \ref{confusionTraining} muestran la matriz de confusión de los datos de entrenamiento. Las filas muestran los datos que son de una clase y como lo ha clasificado la red neuronal. Por ejemplo, la fila de Andando, tenía 3811 datos, de los cuales ha clasificado correctamente 3490, erroneamente como andando 10, como corriendo 277 y como cayendo 34. Finalmente, en la ultima columna se puede ver el porcentaje de acierto global de la red en este caso. Por otro lado, las columnas muestran los datos medidos de cada clase por la red neuronal, por ejemplo, la columna de reposo muestra que la red ha detectado 4632 eventos de reposo, de los cuales 4101 son datos de reposo clasificados como reposo, y el resto son falsos positivos. En la última fila se puede ver el número de aciertos entre aciertos más falsos positivos.
 
 
 \begin{table}[h]
+\begin{small}
 \centering
 \begin{tabular} {| c || c | c | c | c || c |}
   \hline
-   & Reposo & Andando & Corriendo & Caídas & \% $\frac{aciertos}{aciertos + falsos \, positivos}$\\
+   & Reposo & Andando & Corriendo & Caídas & \% aciertos red\\
   \hline
   \hline
   Reposo & \cellcolor{green!25}4101 & 0 & 0 & 0 & 100\% \\
@@ -1224,20 +1225,22 @@ La tabla \ref{confusionTraining} muestran la matriz de confusión de los datos d
   Cayendo & 512 & 282 & 832 & \cellcolor{green!25}1806 & 52\% \\
   \hline
   \hline
-  \% aciertos red & 89\% & 74\% & 72\% & 89\% & \\
+  \% $\frac{aciertos}{aciertos + falsos \, positivos}$ & 89\% & 74\% & 72\% & 89\% & \\
   \hline
 \end{tabular}
 \caption{Matriz de confusión de los datos de entrenamiento.}
 \label{confusionTraining}
+\end{small}
 \end{table}
 
 En la tabla \ref{confusionValidation} se puede ver la matriz de confusión de los datos de validación. Los datos coinciden en mayor o menor medida a los de entrenamiento, siendo estos datos de validación medidas que la red nunca había visto, por lo que son independientes y examinan que el entrenamiento funciona.
 
 \begin{table}[h]
+\begin{small}
 \centering
   \begin{tabular} {| c || c | c | c | c || c |}
   \hline
-   & Reposo & Andando & Corriendo & Caídas & \% $\frac{aciertos}{aciertos + falsos \, positivos}$\\
+   & Reposo & Andando & Corriendo & Caídas & \% aciertos red \\
   \hline
   \hline
   Reposo & \cellcolor{green!25}1250 & 0 & 0 & 0 & 100\% \\
@@ -1249,15 +1252,16 @@ En la tabla \ref{confusionValidation} se puede ver la matriz de confusión de lo
   Caída & 87 & 77 & 183 & \cellcolor{green!25}403 & 54\% \\
   \hline
   \hline
-  \% aciertos red & 93\% & 77\% & 74\% & 88\% & \\
+  \% $\frac{aciertos}{aciertos + falsos \, positivos}$ & 93\% & 77\% & 74\% & 88\% & \\
   \hline
   \end{tabular}
     \caption{Matriz de confusión de los datos de validación.}
   \label{confusionValidation}
+\end{small}
 \end{table}
 
 \newpage
-De estas tablas se puede sacar mucha información interesante. Quizá la más llamativa sea el número de falsos positivos entre los datos de caída. Esto podría ser un grave problema para el funcionamiento de una aplicación. Sin embargo, al promediar los datos de ocho medidas en la aplicación este efecto disminuye notablemente. Además, como las caídas eran el único patrón que se podía obtener de forma determinista de forma clara, se le han añadido a la detección para dar más peso a las caídas. 
+De estas tablas se puede sacar mucha información interesante. Quizá la más llamativa sea el bajo número de aciertos en los datos de caídas. Esto podría llegar a ser un problema de cara a la aplicación final, sin embargo, a nivel de aplicación en Android se ha realizado un aumento de peso de las caídas si los datos de aceleración recibidos son muy grandes, ya que la forma de la gráfica de las caídas es la única claramente distinta de las demás, como vimos en la sección de metodología. Con esto se aumenta considerablemente el número de detecciones y no son preocupante en exceso los falsos positivos ya que las medidas correctas suponen el 89\% y el 88\% de todas las clasificadas por la red.
 
 
 \begin{figure}[h]
@@ -1272,22 +1276,28 @@ En la figura \ref{fig:finalesAndroid} se encuentran los resultados obtenidos en 
 \newpage
 \chapter{Conclusiones}
 
-Teniendo en cuenta las limitaciones que nos impone Android, y al no poder tomar simultáneamente los datos del acelerómetro y del giroscopio mantiene un funcionamiento aceptable. Una precisión global del 81\% de acierto está bastante bien y muestra la potencia de las redes neuronales y de la inteligencia artificial.
+En este trabajo se ha estudiado desde la base matemática hasta la aplicación práctica de la inteligencia artificial. También se ha hecho un estudio en profundidad de los acelerómetros digitales y la física detrás de su funcionamiento. Finalmente, esos conocimientos se han puesto en práctica para la realización de una aplicación experimental que detecta patrones de movimiento de los usuarios.
 
-A continuación, unos comentarios sobre el trabajo:
+Este proyecto cuenta con dos dispositivos \textit{hardware}, el \textit{smartwatch} y el \textit{smartphone}. El \textit{smartwatch} se ha encargado de tomar los datos del acelerómetro y mandarlos a la \textit{Data Layer}, de donde la aplicación del \textit{smartphone} lo recupera, lo clasifica usando un red entrenada específicamente para esta tarea y lo muestra en pantalla.
 
+Esta aplicación detecta cuatro tipos de patrones: Reposo, andando, corriendo y caídas. Para realizar esta aplicación se ha tenido que desarrollar en Python la red neuronal y en Android la utilización de esa red desarrollada para clasificar los datos del acelerómetro.
+
+Teniendo en cuenta las limitaciones que nos impone Android, y al no poder tomar simultáneamente los datos del acelerómetro y del giroscopio mantiene un funcionamiento aceptable. Una precisión global del 81\% en Python y un 88\% en Android muestra que es una herramienta potente para este tipo de problemas. Se ha aumentado la precisión en Android principalmente por dos factores, el primero es la acumulación del promedio obtenido en ocho datos de la red neuronal, y el otro es la aplicación de un pequeño algoritmo determinista que aumenta el peso de las caídas si la aceleración en valor absoluto es mayor a un cierto valor límite. De esta forma se aumentan la precisión de las caídas aún más.
+
+Por otro lado, se ha desarrollado este proyecto enteramente basado en \textit{software} libre. Todo esto es reproducible en casa a coste cero. Esto es importante porque muestra que cada vez más, las técnicas de vanguardia en ciencia no están en manos de corporaciones que las puedan limitar por una u otra razón. Además, la comunidad de este tipo de herramientas libres suele ser abierta y activa, por lo que se resuelven las dudas bastante rápidamente.
+
+A lo largo del desarrollo del proyecto con la interacción diaria con el \textit{smartwatch} se ha visto que la duración de batería es su punto débil. La mayor mejora que podrían obtener este tipo de dispositivos sería en ese campo. Hay otras opciones, como por ejemplo usar una pantalla de bajo consumo que no sea LCD. De esta forma, se podrían obtener dispositivos de batería de gran duración. Como se observó en la sección de antecedentes, la conexión a internet y el LCD hacen bastante proporción del gasto. Con un dispositivo con tecnología e-ink se podría reducir muchísimo.
+
+Y ahora unos comentarios más personales, de mi experiencia a lo largo del desarrollo de este proyecto.
 \begin{enumerate}
 \item[1.] Ha sido interesante adentrarse en el mundo de la inteligencia artificial, pues así se da uno cuenta del gran campo que hay de investigación. Además, es el momento adecuado, ya existe la potencia de computación para resolver verdaderos problemas. Se ha hecho una introducción al campo muy interesante y además muy legible, fácil de seguir y comprender.
 
 \item[2.] El internet de las cosas sigue adelante aunque últimamente el término esté de capa caída. La potencia de los dispositivos aumenta y cada vez tienen más utilidad. En este caso se ha usado un dispositivo de uso general para algo muy concreto y que podría tener utilidad para muchas personas.
 
-\item[3.] El potencial para el cambio de la vida de personas ancianas y/o en riesgo es alto. Con una inversión mayor se podría crear una aplicación más precisa que ayudaría a millones de personas, y además no es algo caro, ya que los \textit{smartwatch} son asequibles y son cómodos de llevar. Finalmente, muchas personas mayores están acostumbradas a llevar un reloj, así que el tiempo de adaptación sería corto.
+\item[3.] El potencial para el cambio de la vida de personas ancianas y/o en riesgo es alto. Con una inversión mayor se podría crear una aplicación más precisa que ayudaría a millones de personas, y además no es algo caro, ya que los \textit{smartwatch} son asequibles y cómodos de llevar. Finalmente, muchas personas mayores están acostumbradas a llevar un reloj, así que el tiempo de adaptación sería corto.
 
-\item[4.] El principal problema de los \textit{smartwatches} sigue siendo, no su potencia, sino su batería. La mayor mejora que podrían obtener este tipo de dispositivos sería en ese campo. Hay otras opciones, como por ejemplo usar una pantalla de bajo consumo que no sea LCD. De esta forma, se podrían obtener dispositivos de batería de gran duración. Como se observó en la sección de antecedentes, la conexión a internet y el LCD hacen bastante proporción del gasto. Con un dispositivo con tecnología e-ink se podría reducir muchísimo el gasto.
 
-\item[5.] Como nota personal, ha sido interesante adentrarse en el mundo de la programación y tratamiento de señales a un nivel más allá del necesario para superar la carrera. De esta forma, he aprendido y ampliado mis conocimientos en el campo, y además lo he disfrutado.
-
-\item[6.] Se ha desarrollado este proyecto enteramente basado en \textit{software} libre. Todo esto es reproducible en casa a coste cero. Esto es importante porque muestra que cada vez más, las técnicas de vanguardia en ciencia no están en manos de corporaciones que las puedan limitar por una u otra razón. Además, la comunidad de este tipo de herramientas libres suele ser abierta y activa, por lo que se resuelven las dudas bastante rápidamente.
+\item[5.] Ha sido interesante adentrarse en el mundo de la programación y tratamiento de señales a un nivel más allá del necesario para superar la carrera. De esta forma, he aprendido y ampliado mis conocimientos en el campo, y además lo he disfrutado.
 \end{enumerate}
 
 Como posibles ampliaciones de este trabajo, se proponen varias cosas. Primeramente, la red neuronal es un Perceptrón multicapa, por lo que se podría obtener mejores resultados con una red convolucional. Si ocurriera eso, habría que implementar la librería de TensorFlow completa para Android, ya que TFlite no contiene todas las funciones de este tipo de redes. Esto haría que la precisión aumentase a costa de un pequeño gasto de batería, ya que la librería completa no está tan optimizada.
