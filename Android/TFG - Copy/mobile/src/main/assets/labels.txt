@@ -1,4 +1,0 @@
-Reposo
-Andando
-Corriendo
-Cayendo
